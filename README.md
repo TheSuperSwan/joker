@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people say that I never got over my obsession with Phil Collins.
-But take a look at me now.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
