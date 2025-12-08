@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
 
 <!-- END -->
 
