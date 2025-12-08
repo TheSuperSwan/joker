@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Superman get invited to dinners? Because he is a Supperhero.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
