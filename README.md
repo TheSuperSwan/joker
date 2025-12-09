@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
