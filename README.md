@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I thought about going on an all-almond diet. But that's just nuts.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
