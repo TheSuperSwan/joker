@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> What do you do on a remote island? Try and find the TV island it belongs to.
 
 <!-- END -->
 
