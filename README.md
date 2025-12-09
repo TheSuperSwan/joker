@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
