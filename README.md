@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 <!-- END -->
 
