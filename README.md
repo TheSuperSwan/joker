@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for an origami company but they folded.
+> The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
 <!-- END -->
 
