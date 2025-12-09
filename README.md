@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
