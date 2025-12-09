@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> Why are fish easy to weigh? Because they have their own scales.
 
 <!-- END -->
 
