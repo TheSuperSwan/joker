@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> Why was it called the dark ages? Because of all the knights. 
 
 <!-- END -->
 
