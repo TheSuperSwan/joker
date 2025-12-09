@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> Why is no one friends with Dracula? Because he's a pain in the neck.
 
 <!-- END -->
 
