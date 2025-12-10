@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+> What kind of pants do ghosts wear? Boo jeans.
 
 <!-- END -->
 
