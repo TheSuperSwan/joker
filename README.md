@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
