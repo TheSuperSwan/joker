@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
