@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> Is there a hole in your shoe? Noâ¦ Then howâd you get your foot in it?
 
 <!-- END -->
 
