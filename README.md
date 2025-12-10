@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
