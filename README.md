@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
