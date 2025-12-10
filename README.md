@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear my pizza joke? Never mind, it's too cheesy.
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
