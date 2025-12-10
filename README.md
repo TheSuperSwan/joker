@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why couldn't the kid see the pirate movie? Because it was rated arrr!
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
