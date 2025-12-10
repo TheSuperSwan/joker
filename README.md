@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> Sometimes I tuck my knees into my chest and lean forward.  Thatâs just how I roll.
 
 <!-- END -->
 
