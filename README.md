@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
