@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the giant pickle?  He was kind of a big dill.
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
