@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is no one friends with Dracula? Because he's a pain in the neck.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
