@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> Why is no one friends with Dracula? Because he's a pain in the neck.
 
 <!-- END -->
 
