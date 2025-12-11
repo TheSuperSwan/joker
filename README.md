@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
