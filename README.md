@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
