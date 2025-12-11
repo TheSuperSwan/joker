@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
