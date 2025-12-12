@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If two vegans are having an argument, is it still considered beef?
+> Why do nurses carry around red crayons? Sometimes they need to draw blood.
 
 <!-- END -->
 
