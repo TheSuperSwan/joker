@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just read a few facts about frogs. They were ribbiting.
+> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
 
 <!-- END -->
 
