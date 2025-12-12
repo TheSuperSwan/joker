@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What time did the man go to the dentist? Tooth hurt-y.
+> What do you call a snake who builds houses? A boa constructor!
 
 <!-- END -->
 
