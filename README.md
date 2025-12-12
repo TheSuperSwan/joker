@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
