@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> Why does Han Solo like gum? It's chewy!
 
 <!-- END -->
 
