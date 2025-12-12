@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one plate say to the other plate? Dinner is on me!
+> Where does Napoleon keep his armies? In his sleevies.
 
 <!-- END -->
 
