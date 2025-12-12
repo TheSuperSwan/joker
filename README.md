@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do hamburgers go to dance? The meat-ball.
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
