@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Han Solo like gum? It's chewy!
+> Recent survey revealed 6 out of 7 dwarf's aren't happy.
 
 <!-- END -->
 
