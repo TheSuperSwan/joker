@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's large, grey, and doesn't matter?
-An irrelephant.
-
+> Waking up this morning was an eye-opening experience.
 
 <!-- END -->
 
