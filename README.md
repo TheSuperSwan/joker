@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What lies at the bottom of the ocean and twitches? A nervous wreck.
+> "Dad, I'm cold."
+"Go stand in the corner, I hear it's 90 degrees."
 
 <!-- END -->
 
