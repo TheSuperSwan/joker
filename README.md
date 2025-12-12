@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
