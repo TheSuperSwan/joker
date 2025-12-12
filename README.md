@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
