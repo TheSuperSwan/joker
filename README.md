@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of magic do cows believe in? MOODOO.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
