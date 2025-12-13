@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
