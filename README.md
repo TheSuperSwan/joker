@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
