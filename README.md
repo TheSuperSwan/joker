@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't run through a camp site. You can only ran, because it's past tents.
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
