@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the late tomato say to the early tomato? Iâll ketch up
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
