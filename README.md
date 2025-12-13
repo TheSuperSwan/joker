@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday a clown held a door open for me. I thought it was a nice jester.
+> If you walk into a forest and cut down a tree, but the tree doesn't understand why you cut it down, do you think it's stumped?
 
 <!-- END -->
 
