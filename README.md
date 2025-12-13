@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Milk is also the fastest liquid on earth â its pasteurized before you even see it
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
