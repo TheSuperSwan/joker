@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This furniture store keeps emailing me, all I wanted was one night stand!
+> Milk is also the fastest liquid on earth â its pasteurized before you even see it
 
 <!-- END -->
 
