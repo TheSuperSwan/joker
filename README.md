@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
