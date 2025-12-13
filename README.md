@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
