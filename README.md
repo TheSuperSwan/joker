@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a monkey in a mine field? A babooooom!
-
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
