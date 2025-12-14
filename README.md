@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust stairs. They're always up to something.
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
