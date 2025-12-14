@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
