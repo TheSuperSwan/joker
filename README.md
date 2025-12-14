@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> R.I.P. boiled water. You will be mist.
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
