@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
