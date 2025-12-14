@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend keeps telling me "Cheer up. You aren't stuck in a deep hole in the ground, filled with water."
-I know he means well.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
