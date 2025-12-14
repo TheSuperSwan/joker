@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
 
 <!-- END -->
 
