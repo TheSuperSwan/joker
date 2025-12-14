@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> What do you call a dictionary on drugs? High definition.
 
 <!-- END -->
 
