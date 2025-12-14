@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I considered building the patio by myself. But I didn't have the stones.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
