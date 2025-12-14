@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âMy Dog has no nose.â âHow does he smell?â âAwfulâ
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
