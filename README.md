@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the leading cause of dry skin? Towels
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
