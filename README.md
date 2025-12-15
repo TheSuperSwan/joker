@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> What do you get hanging from Apple trees? Sore arms.
 
 <!-- END -->
 
