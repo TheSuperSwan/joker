@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
