@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the bread factory burning down? They say the business is toast.
+> Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 <!-- END -->
 
