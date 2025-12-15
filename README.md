@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a French skeleton say hello? Bone-jour.
+> What did one nut say as he chased another nut?  I'm a cashew!
 
 <!-- END -->
 
