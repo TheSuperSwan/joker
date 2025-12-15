@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one nut say as he chased another nut?  I'm a cashew!
+> I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 <!-- END -->
 
