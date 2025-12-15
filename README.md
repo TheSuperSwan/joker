@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
