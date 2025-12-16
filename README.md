@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do wizards clean their teeth three times a day? To prevent bat breath!
+> What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 <!-- END -->
 
