@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> My boss told me that he was going to fire the person with the worst posture. I have a hunch, it might be me.
 
 <!-- END -->
 
