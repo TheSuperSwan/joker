@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+> Conjunctivitis.com â now thatâs a site for sore eyes.
 
 <!-- END -->
 
