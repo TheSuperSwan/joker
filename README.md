@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
