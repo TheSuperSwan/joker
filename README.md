@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
