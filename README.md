@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the 0 say to the 8? Nice belt.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
