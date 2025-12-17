@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the shirt happy to hang around the tank top? Because it was armless
+> What did Michael Jackson name his denim store?    Billy Jeans!
 
 <!-- END -->
 
