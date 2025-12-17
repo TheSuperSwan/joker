@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees have sticky hair? Because they use honey combs!
+> Why are fish easy to weigh? Because they have their own scales.
 
 <!-- END -->
 
