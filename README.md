@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
