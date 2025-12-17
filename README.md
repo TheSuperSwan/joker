@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The best time on a clock is 6:30--hands down.
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
