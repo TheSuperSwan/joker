@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm only familiar with 25 letters in the English language. I donât know why.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
