@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
