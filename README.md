@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just read a few facts about frogs. They were ribbiting.
+> The best time on a clock is 6:30--hands down.
 
 <!-- END -->
 
