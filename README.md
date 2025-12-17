@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the difference between an African elephant and an Indian elephant? About 5000 miles.
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
