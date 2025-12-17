@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> I ate a clock yesterday. It was so time consuming.
 
 <!-- END -->
 
