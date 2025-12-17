@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the robot angry? Because someone kept pressing his buttons!
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
