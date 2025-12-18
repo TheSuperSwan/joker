@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Velcroâ¦ What a rip-off.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
