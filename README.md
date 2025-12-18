@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
