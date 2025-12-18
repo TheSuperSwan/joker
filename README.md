@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow on a trampoline? A milk shake!
+> Scientists finally did a study on forks. It's about tine!
 
 <!-- END -->
 
