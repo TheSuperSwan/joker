@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+> A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
 
 <!-- END -->
 
