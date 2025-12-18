@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you ever seen fruit preserves being made? It's jarring.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
