@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the late tomato say to the early tomato? Iâll ketch up
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
