@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
+> âMy Dog has no nose.â âHow does he smell?â âAwfulâ
 
 <!-- END -->
 
