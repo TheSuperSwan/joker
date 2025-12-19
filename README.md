@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Norway have barcodes on their battleships? So when they get back to port, they can Scandinavian.
+> Itâs hard to explain puns to kleptomaniacs, because they take everything literally.
 
 <!-- END -->
 
