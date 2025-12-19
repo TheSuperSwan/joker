@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> New atoms frequently lose electrons when they fail to keep an ion them.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
