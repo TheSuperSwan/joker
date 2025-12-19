@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
