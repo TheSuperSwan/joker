@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
+> It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 <!-- END -->
 
