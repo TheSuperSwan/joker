@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> How does a dyslexic poet write? Inverse.
 
 <!-- END -->
 
