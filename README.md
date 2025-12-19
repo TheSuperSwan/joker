@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> How do you teach a kid to climb stairs? There is a step by step guide.
 
 <!-- END -->
 
