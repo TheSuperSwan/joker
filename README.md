@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> What's orange and sounds like a parrot? A Carrot.
 
 <!-- END -->
 
