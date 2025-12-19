@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> It's only a murder of crows if there's probable caws.
 
 <!-- END -->
 
