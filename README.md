@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't get a reservation at the library. They were completely booked.
+> Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 <!-- END -->
 
