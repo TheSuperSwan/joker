@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a snake who builds houses? A boa constructor!
+> I'll tell you what often gets over looked... garden fences.
 
 <!-- END -->
 
