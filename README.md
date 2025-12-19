@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't your nose be 12 inches long? Because then it'd be a foot!
+> Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 
 <!-- END -->
 
