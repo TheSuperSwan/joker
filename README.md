@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are making apocalypse jokes like thereâs no tomorrow.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
