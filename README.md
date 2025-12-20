@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
