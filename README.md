@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wouldn't buy anything with velcro. It's a total rip-off.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
