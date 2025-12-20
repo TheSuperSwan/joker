@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
