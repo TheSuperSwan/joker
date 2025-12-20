@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a female snake. misssssssss 
+> Where do young cows eat lunch? In the calf-ateria.
 
 <!-- END -->
 
