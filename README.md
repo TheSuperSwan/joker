@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> Why was it called the dark ages? Because of all the knights. 
 
 <!-- END -->
 
