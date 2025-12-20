@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
