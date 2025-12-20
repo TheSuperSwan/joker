@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Toasters were the first form of pop-up notifications.
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
