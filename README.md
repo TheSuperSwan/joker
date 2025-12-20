@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the half blind man fall in the well? Because he couldn't see that well!
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
