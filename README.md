@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> What did one nut say as he chased another nut?  I'm a cashew!
 
 <!-- END -->
 
