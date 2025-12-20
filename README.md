@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> So a duck walks into a pharmacy and says âGive me some chap-stickâ¦ and put it on my billâ
+> How do you organize a space party? You planet.
 
 <!-- END -->
 
