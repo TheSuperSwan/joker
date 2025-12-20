@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dad Iâm hungryâ â¦ âHi hungry Iâm dad
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
