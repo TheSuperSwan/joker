@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Today a girl said she recognized me from vegetarian club, but Iâm sure Iâve never met herbivore.
+> Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 <!-- END -->
 
