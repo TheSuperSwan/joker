@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When does a joke become a dad joke? When it becomes apparent.
+> Why did the feline fail the lie detector test? Because he be lion.
 
 <!-- END -->
 
