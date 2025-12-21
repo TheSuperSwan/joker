@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I met this girl on a dating site and, I don't know, we just clicked.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
