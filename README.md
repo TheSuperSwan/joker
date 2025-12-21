@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> Why did the tree go to the dentist? It needed a root canal.
 
 <!-- END -->
 
