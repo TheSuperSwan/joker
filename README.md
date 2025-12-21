@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
