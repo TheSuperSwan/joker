@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with two legs? Lean beef.
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
