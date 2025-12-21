@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the ocean always blue? Because the shore never waves back.
+> I been watching a channel on TV that is strictly just about origami â of course it is paper-view.
 
 <!-- END -->
 
