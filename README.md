@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
