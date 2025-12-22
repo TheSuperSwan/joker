@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are shocked to discover I have a police record but I love their greatest hits!
+> What do you call a droid that takes the long way around? R2 detour.
 
 <!-- END -->
 
