@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't get a reservation at the library. They were completely booked.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
