@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
