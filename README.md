@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What creature is smarter than a talking parrot? A spelling bee.
+> I couldn't get a reservation at the library. They were completely booked.
 
 <!-- END -->
 
