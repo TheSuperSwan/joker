@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dictionary on drugs? High definition.
+> What's black and white and read all over? The newspaper.
 
 <!-- END -->
 
