@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What time did the man go to the dentist? Tooth hurt-y.
+> What is red and smells like blue paint?
+Red paint!
 
 <!-- END -->
 
