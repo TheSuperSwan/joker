@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Shout out to my grandma, that's the only way she can hear.
+> I got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
