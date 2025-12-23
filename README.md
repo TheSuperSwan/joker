@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs E.T. short for? Heâs only got little legs.
+> What do you call a criminal going down the stairs? Condescending
 
 <!-- END -->
 
