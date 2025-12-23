@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
