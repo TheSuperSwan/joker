@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the giant pickle?  He was kind of a big dill.
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
