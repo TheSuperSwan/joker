@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of killer whales playing instruments? An Orca-stra.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
