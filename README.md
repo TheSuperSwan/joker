@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a magician who has lost their magic? Ian.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
