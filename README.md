@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
