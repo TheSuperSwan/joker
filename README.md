@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the left eye say to the right eye? Between us, something smells!
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
