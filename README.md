@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
