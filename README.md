@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
