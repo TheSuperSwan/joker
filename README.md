@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
+> I really want to buy one of those supermarket checkout dividers, but the cashier keeps putting it back.
 
 <!-- END -->
 
