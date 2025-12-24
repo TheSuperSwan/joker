@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I decided to sell my Hooverâ¦ well it was just collecting dust.
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
