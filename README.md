@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boy who stopped digging holes? Douglas.
+> My boss told me to have a good day. So I went home...
 
 <!-- END -->
 
