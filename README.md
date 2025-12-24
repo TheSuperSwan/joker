@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
