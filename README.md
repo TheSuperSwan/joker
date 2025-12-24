@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> The urge to sing the Lion King song is just a whim away.
 
 <!-- END -->
 
