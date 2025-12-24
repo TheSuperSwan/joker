@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
