@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
