@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didn't the number 4 get into the nightclub? Because he is 2 square.
+> What do you call an Argentinian with a rubber toe? Roberto
 
 <!-- END -->
 
