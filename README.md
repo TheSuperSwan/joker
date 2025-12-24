@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the guy with the broken hearing aid? Neither did he.
+> Why did the melons plan a big wedding? Because they cantaloupe!
 
 <!-- END -->
 
