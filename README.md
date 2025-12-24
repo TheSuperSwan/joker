@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If two vegans are having an argument, is it still considered beef?
+> I once lost a banana at court but then I appealed. 
 
 <!-- END -->
 
