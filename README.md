@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of pants do ghosts wear? Boo jeans.
+> Why are graveyards so noisy? Because of all the coffin.
 
 <!-- END -->
 
