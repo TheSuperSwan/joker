@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many apples grow on a tree? All of them!
+> Have you ever seen fruit preserves being made? It's jarring.
 
 <!-- END -->
 
