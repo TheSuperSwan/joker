@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+> Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 <!-- END -->
 
