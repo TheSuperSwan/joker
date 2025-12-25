@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the clown have neck pain? - Because he slept funny
+> Where did you learn to make ice cream? Sunday school.
 
 <!-- END -->
 
