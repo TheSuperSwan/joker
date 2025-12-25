@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
