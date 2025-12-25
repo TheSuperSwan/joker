@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did you learn to make ice cream? Sunday school.
+> What do you call a cow with no legs? Ground beef.
 
 <!-- END -->
 
