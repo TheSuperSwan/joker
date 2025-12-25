@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
