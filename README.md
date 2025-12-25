@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When do doctors get angry? When they run out of patients.
+> Can February march? No, but April may.
 
 <!-- END -->
 
