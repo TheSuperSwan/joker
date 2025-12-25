@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's difficult to say what my wife does, she sells sea shells by the sea shore.
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
