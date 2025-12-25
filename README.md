@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When does a joke become a dad joke? When it becomes apparent.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
