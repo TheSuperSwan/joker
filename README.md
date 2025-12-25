@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> Two peanuts were walking down the street. One was a salted
 
 <!-- END -->
 
