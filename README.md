@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the orange win the race? It ran out of juice.
+> My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 <!-- END -->
 
