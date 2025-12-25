@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Me and my mates are in a band called Duvet. We're a cover band.
+> I been watching a channel on TV that is strictly just about origami â of course it is paper-view.
 
 <!-- END -->
 
