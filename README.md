@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are graveyards so noisy? Because of all the coffin.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
