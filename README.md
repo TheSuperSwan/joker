@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
