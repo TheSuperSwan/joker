@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do choirs keep buckets handy? So they can carry their tune
+> Why did the clown have neck pain? - Because he slept funny
 
 <!-- END -->
 
