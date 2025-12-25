@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
