@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> Which is the fastest growing city in the world? Dublin'
 
 <!-- END -->
 
