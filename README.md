@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
