@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> My dentist is the best, he even has a little plaque!
 
 <!-- END -->
 
