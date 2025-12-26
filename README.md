@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> If you think swimming with dolphins is expensive, you should try swimming with sharks--it cost me an arm and a leg!
 
 <!-- END -->
 
