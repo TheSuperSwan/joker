@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
