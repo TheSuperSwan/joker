@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
