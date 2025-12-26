@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dentist is the best, he even has a little plaque!
+> My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
 
 <!-- END -->
 
