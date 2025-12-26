@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
