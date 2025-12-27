@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the traffic light say to the car as it passed? "Don't look I'm changing!"
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
