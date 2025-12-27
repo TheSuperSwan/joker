@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the calculator say to the student? You can count on me.
+> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
 
 <!-- END -->
 
