@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does Darth Vader like his toast? On the dark side.
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
