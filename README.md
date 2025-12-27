@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
