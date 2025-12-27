@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to write a chemistry joke, but could never get a reaction.
+> I wear a stethoscope so that in a medical emergency I can teach people a valuable lesson about assumptions.
 
 <!-- END -->
 
