@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
 
 <!-- END -->
 
