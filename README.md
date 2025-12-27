@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a duck that gets all A's? A wise quacker.
+> What did the traffic light say to the car as it passed? "Don't look I'm changing!"
 
 <!-- END -->
 
