@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's been months since I bought the book "how to scam people online". It still hasn't turned up.
+> What's the best thing about elevator jokes? They work on so many levels.
 
 <!-- END -->
 
