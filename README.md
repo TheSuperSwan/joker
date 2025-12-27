@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
