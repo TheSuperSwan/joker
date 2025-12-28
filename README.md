@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the skeleton cross the road? Because he had no guts.
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
