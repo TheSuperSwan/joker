@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
