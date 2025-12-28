@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what happens when you cross a sheep with a kangaroo ? A woolly jumper!
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
