@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man got hit in the head with a can of Coke, but he was alright because it was a soft drink.
+> Dad died because he couldn't remember his blood type. I will never forget his last words. Be positive.
 
 <!-- END -->
 
