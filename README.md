@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a girl between two posts? Annette.
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
