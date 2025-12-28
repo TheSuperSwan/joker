@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> Why do fish live in salt water? Because pepper makes them sneeze!
 
 <!-- END -->
 
