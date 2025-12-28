@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> R.I.P. boiled water. You will be mist.
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
