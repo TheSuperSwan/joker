@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> What does a pirate pay for his corn? A buccaneer!
 
 <!-- END -->
 
