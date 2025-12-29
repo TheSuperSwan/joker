@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the best thing about elevator jokes? They work on so many levels.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
