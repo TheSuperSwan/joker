@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
