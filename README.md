@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an alligator in a vest? An in-vest-igator!
+> How do you get a baby alien to sleep?  You rocket.
 
 <!-- END -->
 
