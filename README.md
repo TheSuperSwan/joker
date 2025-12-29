@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> Have you heard about corduroy pillows?  They're making headlines!
 
 <!-- END -->
 
