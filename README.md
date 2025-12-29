@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's black and white and read all over? The newspaper.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
