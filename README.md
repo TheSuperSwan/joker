@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
