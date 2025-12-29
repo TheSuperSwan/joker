@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
