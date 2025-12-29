@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
