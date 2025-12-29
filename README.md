@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> Two silk worms had a race. They ended up in a tie.
 
 <!-- END -->
 
