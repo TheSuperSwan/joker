@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for an origami company but they folded.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
