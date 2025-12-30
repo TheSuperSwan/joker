@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> What do you call a duck that gets all A's? A wise quacker.
 
 <!-- END -->
 
