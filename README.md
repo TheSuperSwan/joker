@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People who don't eat gluten are really going against the grain.
+> Is there a hole in your shoe? Noâ¦ Then howâd you get your foot in it?
 
 <!-- END -->
 
