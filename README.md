@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
