@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
