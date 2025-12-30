@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I gave all my dead batteries away today, free of charge.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
