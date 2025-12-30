@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
