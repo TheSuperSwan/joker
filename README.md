@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
