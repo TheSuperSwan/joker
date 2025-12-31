@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Sandwich walks into a bar, the bartender says âSorry, we donât serve food hereâ
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
