@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> Did you hear about the Mexican train killer? He had loco motives
 
 <!-- END -->
 
