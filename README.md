@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
