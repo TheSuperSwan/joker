@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
