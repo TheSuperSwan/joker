@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
