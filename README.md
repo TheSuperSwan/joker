@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
