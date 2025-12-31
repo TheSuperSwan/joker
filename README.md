@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did Sweden start painting barcodes on the sides of their battleships? So they could Scandinavian.
+> What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
 
 <!-- END -->
 
