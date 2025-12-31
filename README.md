@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 <!-- END -->
 
