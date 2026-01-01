@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
