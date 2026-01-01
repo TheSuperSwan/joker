@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees have sticky hair? Because they use honey combs!
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
