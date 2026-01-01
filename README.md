@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Animal Fact #25: Most bobcats are not named bob.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
