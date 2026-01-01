@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the late tomato say to the early tomato? Iâll ketch up
+> What do you call your friend who stands in a hole? Phil.
 
 <!-- END -->
 
