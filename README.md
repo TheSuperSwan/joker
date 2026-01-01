@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 
 <!-- END -->
 
