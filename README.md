@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
