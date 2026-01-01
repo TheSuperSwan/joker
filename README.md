@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
