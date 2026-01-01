@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees have sticky hair? Because they use honey combs!
+> What is the hardest part about sky diving? The ground.
 
 <!-- END -->
 
