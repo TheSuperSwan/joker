@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> What kind of pants do ghosts wear? Boo jeans.
 
 <!-- END -->
 
