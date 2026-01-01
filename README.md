@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 <!-- END -->
 
