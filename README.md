@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> Why are mummys scared of vacation? They're afraid to unwind.
 
 <!-- END -->
 
