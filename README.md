@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When Dad drops a pea off of his plate âoh dear Iâve peeâd on the table!
+> Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
 <!-- END -->
 
