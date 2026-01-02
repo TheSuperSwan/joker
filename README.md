@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
