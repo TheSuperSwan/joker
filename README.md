@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are skeletons so calm? Because nothing gets under their skin.
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
