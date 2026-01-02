@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the skeleton cross the road? Because he had no guts.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
