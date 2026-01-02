@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've just written a song about a tortilla. Well, it is more of a rap really.
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
