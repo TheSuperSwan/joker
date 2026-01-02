@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just broke my guitar. It's okay, I won't fret
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
