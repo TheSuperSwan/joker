@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
