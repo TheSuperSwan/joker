@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 
 <!-- END -->
 
