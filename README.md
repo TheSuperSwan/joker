@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig that knows karate? A pork chop!
+> Why did the worker get fired from the orange juice factory? Lack of concentration.
 
 <!-- END -->
 
