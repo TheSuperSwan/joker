@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The urge to sing the Lion King song is just a whim away.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
