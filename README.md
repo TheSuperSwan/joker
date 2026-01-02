@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "What time is it?" I don't know... it keeps changing.
+> I just broke my guitar. It's okay, I won't fret
 
 <!-- END -->
 
