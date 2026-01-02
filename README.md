@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
