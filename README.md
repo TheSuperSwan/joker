@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a snake who builds houses? A boa constructor!
+> Where do hamburgers go to dance? The meat-ball.
 
 <!-- END -->
 
