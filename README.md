@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
