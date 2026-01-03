@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was in an 80's band called the prevention. We were better than the cure.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
