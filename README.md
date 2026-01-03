@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Napoleon keep his armies? In his sleevies.
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
