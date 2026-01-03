@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't sharks eat clowns?  Because they taste funny.
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
