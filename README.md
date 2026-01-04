@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> The great thing about stationery shops is they're always in the same place...
 
 <!-- END -->
 
