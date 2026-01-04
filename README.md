@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
