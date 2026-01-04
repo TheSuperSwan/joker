@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When Dad drops a pea off of his plate âoh dear Iâve peeâd on the table!
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
