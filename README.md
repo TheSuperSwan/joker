@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are shocked to discover I have a police record but I love their greatest hits!
+> Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 <!-- END -->
 
