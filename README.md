@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Me and my mates are in a band called Duvet. We're a cover band.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
