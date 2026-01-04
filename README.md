@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+> Parallel lines have so much in common. Itâs a shame theyâll never meet.
 
 <!-- END -->
 
