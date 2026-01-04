@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't eggs tell jokes? They'd crack each other up
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
