@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
