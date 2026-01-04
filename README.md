@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't sharks eat clowns?  Because they taste funny.
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
