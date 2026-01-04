@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it so windy inside an arena? All those fans.
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
