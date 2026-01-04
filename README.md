@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
