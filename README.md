@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> What kind of pants do ghosts wear? Boo jeans.
 
 <!-- END -->
 
