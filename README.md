@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the leading cause of dry skin? Towels
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
