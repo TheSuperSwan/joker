@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a French skeleton say hello? Bone-jour.
+> What's orange and sounds like a parrot? A Carrot.
 
 <!-- END -->
 
