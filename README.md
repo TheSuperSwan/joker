@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
