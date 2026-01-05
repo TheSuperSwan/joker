@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
