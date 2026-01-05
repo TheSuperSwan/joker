@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> What did the calculator say to the student? You can count on me.
 
 <!-- END -->
 
