@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is red and smells like blue paint?
-Red paint!
+> How does a French skeleton say hello? Bone-jour.
 
 <!-- END -->
 
