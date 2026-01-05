@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
 
 <!-- END -->
 
