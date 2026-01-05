@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
