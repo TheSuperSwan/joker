@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 <!-- END -->
 
