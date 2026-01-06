@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
