@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Waking up this morning was an eye-opening experience.
+> What do you call a snake who builds houses? A boa constructor!
 
 <!-- END -->
 
