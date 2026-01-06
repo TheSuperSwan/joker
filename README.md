@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
