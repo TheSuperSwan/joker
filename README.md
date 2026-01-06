@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
