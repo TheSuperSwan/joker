@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> An apple a day keeps the bullies away. If you throw it hard enough.
+> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
 
 <!-- END -->
 
