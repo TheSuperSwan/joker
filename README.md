@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+> How do hens stay fit? They always egg-cercise!
 
 <!-- END -->
 
