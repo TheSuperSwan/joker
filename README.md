@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid cross the playground? To get to the other slide.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
