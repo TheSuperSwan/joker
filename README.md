@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do fish live in salt water? Because pepper makes them sneeze!
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
