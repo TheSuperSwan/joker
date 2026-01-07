@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
 
 <!-- END -->
 
