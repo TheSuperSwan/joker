@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> My boss told me to have a good day... so I went home.
 
 <!-- END -->
 
