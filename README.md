@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't tell secrets in corn fields. Too many ears around.
+> Where do young cows eat lunch? In the calf-ateria.
 
 <!-- END -->
 
