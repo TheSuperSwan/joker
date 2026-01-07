@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
