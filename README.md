@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to have a good day. So I went home...
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
