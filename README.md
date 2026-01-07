@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do young cows eat lunch? In the calf-ateria.
+> Did you hear about the Mexican train killer? He had loco motives
 
 <!-- END -->
 
