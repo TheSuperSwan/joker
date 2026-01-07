@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the pirate say on his 80th birthday? Aye Matey!
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
