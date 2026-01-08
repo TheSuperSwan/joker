@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with two legs? Lean beef.
+> Why did the tree go to the dentist? It needed a root canal.
 
 <!-- END -->
 
