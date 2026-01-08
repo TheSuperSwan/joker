@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger chopping cheese, but I think that I may have grater problems.
+> I was wondering why the frisbee was getting bigger, then it hit me.
 
 <!-- END -->
 
