@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âDoctor, Iâve broken my arm in several placesâ Doctor âWell donât go to those places.â
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
