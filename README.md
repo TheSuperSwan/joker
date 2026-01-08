@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
