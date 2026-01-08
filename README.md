@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
+> Which is the fastest growing city in the world? Dublin'
 
 <!-- END -->
 
