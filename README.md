@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the miner get fired from his job? He took it for granite...
+> I used to think I was indecisive, but now I'm not sure.
 
 <!-- END -->
 
