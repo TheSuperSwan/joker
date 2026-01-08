@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
