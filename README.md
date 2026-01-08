@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's difficult to say what my wife does, she sells sea shells by the sea shore.
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
