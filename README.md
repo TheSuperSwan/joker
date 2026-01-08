@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> I used to be addicted to soap, but I'm clean now.
 
 <!-- END -->
 
