@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Yoda say when he saw himself in 4K? "HDMI"
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
