@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
