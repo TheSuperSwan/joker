@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs E.T. short for? Heâs only got little legs.
+> It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 <!-- END -->
 
