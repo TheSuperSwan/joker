@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
