@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is there a hole in your shoe? Noâ¦ Then howâd you get your foot in it?
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
