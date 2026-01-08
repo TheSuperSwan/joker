@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't buy flowers at a monastery. Because only you can prevent florist friars.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
