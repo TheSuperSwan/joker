@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> What do you call a cow with two legs? Lean beef.
 
 <!-- END -->
 
