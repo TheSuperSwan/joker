@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> What do you call a dad that has fallen through the ice? A Popsicle.
 
 <!-- END -->
 
