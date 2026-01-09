@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> A cannibal is someone who is fed up with people.
 
 <!-- END -->
 
