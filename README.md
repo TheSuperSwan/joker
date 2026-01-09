@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
