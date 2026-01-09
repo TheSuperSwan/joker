@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
