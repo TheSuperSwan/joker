@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
