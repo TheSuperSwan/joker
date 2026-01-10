@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the broom late for the meeting? He overswept.
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
