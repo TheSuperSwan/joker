@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Michael Jackson name his denim store?    Billy Jeans!
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
