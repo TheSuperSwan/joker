@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> Why was ten scared of seven? Because seven ate nine.
 
 <!-- END -->
 
