@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when you see a space man?
-Park your car, man.
+> What kind of award did the dentist receive? A little plaque.
 
 <!-- END -->
 
