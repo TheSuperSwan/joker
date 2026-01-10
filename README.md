@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was ten scared of seven? Because seven ate nine.
+> Why did the tomato blush? Because it saw the salad dressing.
 
 <!-- END -->
 
