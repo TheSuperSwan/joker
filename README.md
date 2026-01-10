@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are shocked to discover I have a police record but I love their greatest hits!
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
