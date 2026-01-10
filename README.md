@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of award did the dentist receive? A little plaque.
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
