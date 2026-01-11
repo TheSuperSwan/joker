@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You will never guess what Elsa did to the balloon. She let it go.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
