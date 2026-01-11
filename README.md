@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I saw a documentary on TV last night about how they put ships together.  It was rivetting.
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
