@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I thought about going on an all-almond diet. But that's just nuts.
+> What do Alexander the Great and Winnie the Pooh have in common? Same middle name.
 
 <!-- END -->
 
