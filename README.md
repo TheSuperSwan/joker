@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This furniture store keeps emailing me, all I wanted was one night stand!
+> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
 
 <!-- END -->
 
