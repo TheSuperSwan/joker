@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> How many apples grow on a tree? All of them!
 
 <!-- END -->
 
