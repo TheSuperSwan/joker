@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does astronauts hangout after work? At the spacebar.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
