@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was a more important invention than the first telephone? The second one.
+> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
 
 <!-- END -->
 
