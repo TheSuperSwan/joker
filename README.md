@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a duck that gets all A's? A wise quacker.
+> Why did the banana go to the doctor? He was not "peeling" well.
 
 <!-- END -->
 
