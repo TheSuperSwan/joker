@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+> It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
 
 <!-- END -->
 
