@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fake noodle? An impasta.
+> Why did the miner get fired from his job? He took it for granite...
 
 <!-- END -->
 
