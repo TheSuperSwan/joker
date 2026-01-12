@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of disorganized cats? A cat-tastrophe.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
