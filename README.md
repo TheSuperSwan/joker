@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a pair of racing snails. I removed their shells to make them more aerodynamic, but they became sluggish.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
