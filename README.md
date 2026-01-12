@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
