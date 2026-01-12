@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Itâs hard to explain puns to kleptomaniacs, because they take everything literally.
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
