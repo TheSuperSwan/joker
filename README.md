@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
