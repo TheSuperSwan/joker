@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This is my step ladder. I never knew my real ladder.
+> Whatâs the longest word in the dictionary? Smiles. Because thereâs a mile between the two Sâs.
 
 <!-- END -->
 
