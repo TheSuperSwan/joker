@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ordered a chicken and an egg from Amazon. I'll let you know.
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
