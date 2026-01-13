@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> What did one nut say as he chased another nut?  I'm a cashew!
 
 <!-- END -->
 
