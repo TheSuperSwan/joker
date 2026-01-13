@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
