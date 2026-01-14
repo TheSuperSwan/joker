@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
