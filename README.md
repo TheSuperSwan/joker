@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
