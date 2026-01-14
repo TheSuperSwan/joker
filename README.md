@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
