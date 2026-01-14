@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a broken pizza? With tomato paste.
+> Did you know that ghosts call their true love their ghoul-friend?
 
 <!-- END -->
 
