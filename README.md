@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the piece of bread say to the knife? Butter me up.
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
