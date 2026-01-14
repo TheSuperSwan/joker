@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the leading cause of dry skin? Towels
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
