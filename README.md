@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
