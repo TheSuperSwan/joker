@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Napoleon keep his armies? In his sleevies.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
