@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> What cheese can never be yours? Nacho cheese.
 
 <!-- END -->
 
