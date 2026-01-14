@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the shirt happy to hang around the tank top? Because it was armless
+> They're making a movie about clocks. It's about time
 
 <!-- END -->
 
