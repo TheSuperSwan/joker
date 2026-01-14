@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
