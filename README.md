@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the giant pickle?  He was kind of a big dill.
+> Iâve got this disease where I canât stop making airport puns. The doctor says it terminal.
 
 <!-- END -->
 
