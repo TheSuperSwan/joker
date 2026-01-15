@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just got fired from a florist, apparently I took too many leaves.
+> "Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
 
 <!-- END -->
 
