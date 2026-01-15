@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
+> Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 <!-- END -->
 
