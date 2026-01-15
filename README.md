@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
