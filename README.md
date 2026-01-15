@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> If a child refuses to sleep during nap time, are they guilty of resisting a rest?
 
 <!-- END -->
 
