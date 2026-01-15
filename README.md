@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig that knows karate? A pork chop!
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
