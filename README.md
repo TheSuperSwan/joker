@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two silk worms had a race. They ended up in a tie.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
