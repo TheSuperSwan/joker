@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+> What do you call a pig that knows karate? A pork chop!
 
 <!-- END -->
 
