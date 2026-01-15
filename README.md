@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried taking some high resolution photos of local farmland, but they all turned out a bit grainy.
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
