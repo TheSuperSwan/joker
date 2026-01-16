@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> New atoms frequently lose electrons when they fail to keep an ion them.
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
