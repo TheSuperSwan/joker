@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
