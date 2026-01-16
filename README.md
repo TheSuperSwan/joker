@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> If two vegans are having an argument, is it still considered beef?
 
 <!-- END -->
 
