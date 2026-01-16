@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about the film "Constipation", you probably haven't because it's not out yet.
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
