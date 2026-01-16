@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two fish are in a tank, one turns to the other and says, "how do you drive this thing?"
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
