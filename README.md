@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow on a trampoline? A milk shake!
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
