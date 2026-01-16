@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
