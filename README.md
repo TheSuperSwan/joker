@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
