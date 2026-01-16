@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
