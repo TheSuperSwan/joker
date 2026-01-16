@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
