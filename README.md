@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> Have you heard about corduroy pillows?  They're making headlines!
 
 <!-- END -->
 
