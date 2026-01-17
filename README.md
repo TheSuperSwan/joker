@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one wall say to the other wall? I'll meet you at the corner!
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
