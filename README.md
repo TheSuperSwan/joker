@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've started telling everyone about the benefits of eating dried grapes. It's all about raisin awareness.
+> As I get older, I think of all the people I lost along the way. Maybe a career as a tour guide wasn't such a good idea.
 
 <!-- END -->
 
