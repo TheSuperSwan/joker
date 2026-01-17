@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't you find hippopotamuses hiding in trees?
-They're really good at it.
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
