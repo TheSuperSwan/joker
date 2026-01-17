@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the big cat disqualified from the race? Because it was a cheetah.
+> Why do fish live in salt water? Because pepper makes them sneeze!
 
 <!-- END -->
 
