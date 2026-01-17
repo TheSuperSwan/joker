@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens when you anger a brain surgeon? They will give you a piece of your mind.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
