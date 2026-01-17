@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bad at golf? Join the club.
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
