@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
