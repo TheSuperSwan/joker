@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> How does a French skeleton say hello? Bone-jour.
 
 <!-- END -->
 
