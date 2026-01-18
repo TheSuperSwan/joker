@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
