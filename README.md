@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why couldn't the kid see the pirate movie? Because it was rated arrr!
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
