@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
