@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a nervous javelin thrower? Shakespeare.
+> Why do fish live in salt water? Because pepper makes them sneeze!
 
 <!-- END -->
 
