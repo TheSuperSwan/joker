@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
+> Guy told me today he did not know what cloning is. I told him, "that makes 2 of us."
 
 <!-- END -->
 
