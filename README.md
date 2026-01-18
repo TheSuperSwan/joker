@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> Why did the banana go to the doctor? He was not "peeling" well.
 
 <!-- END -->
 
