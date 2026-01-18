@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't buy flowers at a monastery. Because only you can prevent florist friars.
+> Doctor you've got you help me, I'm addicted to twitter. Doctor: I don't follow you.
 
 <!-- END -->
 
