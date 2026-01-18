@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
