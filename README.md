@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
