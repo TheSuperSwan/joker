@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
