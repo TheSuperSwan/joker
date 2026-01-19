@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When you have a bladder infection, urine trouble.
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
