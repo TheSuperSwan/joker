@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> Why was the strawberry sad? Its parents were in a jam.
 
 <!-- END -->
 
