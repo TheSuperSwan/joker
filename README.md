@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
