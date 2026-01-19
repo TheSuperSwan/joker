@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that David lost his ID in prague? Now we just have to call him Dav.
+> A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
 
 <!-- END -->
 
