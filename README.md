@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
