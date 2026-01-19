@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
