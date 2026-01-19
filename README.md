@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If two vegans are having an argument, is it still considered beef?
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
