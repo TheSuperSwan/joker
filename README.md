@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
