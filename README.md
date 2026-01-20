@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
