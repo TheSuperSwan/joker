@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
