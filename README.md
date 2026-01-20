@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just read a few facts about frogs. They were ribbiting.
+> I used to be addicted to soap, but I'm clean now.
 
 <!-- END -->
 
