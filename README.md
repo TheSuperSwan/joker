@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are skeletons so calm? Because nothing gets under their skin.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
