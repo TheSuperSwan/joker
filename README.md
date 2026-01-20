@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> No matter how kind you are, German children are kinder.
+> The great thing about stationery shops is they're always in the same place...
 
 <!-- END -->
 
