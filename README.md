@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the shy pebble wish for? That she was a little boulder.
+> What do you call a troublesome Canadian high schooler? A poutine.
 
 <!-- END -->
 
