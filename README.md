@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
