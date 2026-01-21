@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A book just fell on my head. I only have my shelf to blame.
+> What did one plate say to the other plate? Dinner is on me!
 
 <!-- END -->
 
