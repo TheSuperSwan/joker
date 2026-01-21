@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+> I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
 
 <!-- END -->
 
