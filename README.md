@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm only familiar with 25 letters in the English language. I donât know why.
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
