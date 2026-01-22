@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boy who stopped digging holes? Douglas.
+> I made a belt out of watches once... It was a waist of time.
 
 <!-- END -->
 
