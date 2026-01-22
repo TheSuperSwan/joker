@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get hanging from Apple trees? Sore arms.
+> What do you call a boy who stopped digging holes? Douglas.
 
 <!-- END -->
 
