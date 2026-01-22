@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
