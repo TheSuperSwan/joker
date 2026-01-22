@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
+> Every machine in the coin factory broke down all of a sudden without explanation. It just doesnât make any cents.
 
 <!-- END -->
 
