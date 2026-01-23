@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Itâs hard to explain puns to kleptomaniacs, because they take everything literally.
+> Some people eat light bulbs. They say it's a nice light snack.
 
 <!-- END -->
 
