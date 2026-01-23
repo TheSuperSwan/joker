@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people eat light bulbs. They say it's a nice light snack.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
