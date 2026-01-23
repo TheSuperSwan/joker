@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The other day I was listening to a song about superglue, itâs been stuck in my head ever since.
+> Where do bees go to the bathroom?  The BP station.
 
 <!-- END -->
 
