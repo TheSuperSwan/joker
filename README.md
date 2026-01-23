@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
->  I never wanted to believe that my Dad was stealing from his job as a road worker. But when I got home, all the signs were there.
-
-
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
