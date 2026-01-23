@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
