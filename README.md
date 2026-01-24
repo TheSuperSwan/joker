@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> There are two types of people in this world, those who can extrapolate from incomplete data...
 
 <!-- END -->
 
