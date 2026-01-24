@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a monkey in a mine field? A babooooom!
-
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
