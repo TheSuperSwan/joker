@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
+> My boss told me to attach two pieces of wood together... I totally nailed it!
 
 <!-- END -->
 
