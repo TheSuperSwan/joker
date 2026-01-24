@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't figure out how the seat belt worked. Then it just clicked.
+> What do you call a sheep with no legs? A cloud.
 
 <!-- END -->
 
