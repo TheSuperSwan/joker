@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Donât interrupt someone working intently on a puzzle. Chances are, youâll hear some crosswords.
+> What did the mountain climber name his son? Cliff.
 
 <!-- END -->
 
