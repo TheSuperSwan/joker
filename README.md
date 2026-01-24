@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
