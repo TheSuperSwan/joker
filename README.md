@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The invention of the wheel was what got things rolling
+> My New Years resolution is to stop leaving things so late.
 
 <!-- END -->
 
