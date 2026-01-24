@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
