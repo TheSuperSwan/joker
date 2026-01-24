@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew i shouldnât have ate that seafood. Because now iâm feeling a littleâ¦ Eel
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
