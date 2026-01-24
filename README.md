@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
