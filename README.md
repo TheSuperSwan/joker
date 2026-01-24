@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> What was the pumpkinâs favorite sport?
+
+Squash.
 
 <!-- END -->
 
