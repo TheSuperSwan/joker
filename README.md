@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man is washing the car with his son. The son asks...... "Dad, canât you just use a sponge?"
+> Donât interrupt someone working intently on a puzzle. Chances are, youâll hear some crosswords.
 
 <!-- END -->
 
