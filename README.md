@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a pig and a pineapple? A porky pine
+> My wife is on a tropical fruit diet, the house is full of stuff. It is enough to make a mango crazy.
 
 <!-- END -->
 
