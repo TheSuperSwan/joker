@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
