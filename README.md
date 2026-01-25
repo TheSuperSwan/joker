@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Skeleton walked into a bar he said I need a beer and a mop
+> What was a more important invention than the first telephone? The second one.
 
 <!-- END -->
 
