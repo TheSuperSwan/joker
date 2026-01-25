@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
