@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
