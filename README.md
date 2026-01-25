@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid throw the clock out the window? He wanted to see time fly!
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
