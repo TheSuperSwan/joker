@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âHold on, I have something in my shoeâ  âIâm pretty sure itâs a footâ
+> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
 
 <!-- END -->
 
