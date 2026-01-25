@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was a more important invention than the first telephone? The second one.
+> Whatâs the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 <!-- END -->
 
