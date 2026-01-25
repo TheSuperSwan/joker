@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They tried to make a diamond shaped like a duck. It quacked under the pressure.
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
