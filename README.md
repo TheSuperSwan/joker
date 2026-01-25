@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
