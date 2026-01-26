@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are making apocalypse jokes like thereâs no tomorrow.
+> Why do bees have sticky hair? Because they use honey combs!
 
 <!-- END -->
 
