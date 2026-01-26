@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
