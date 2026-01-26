@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
+> What do you call a bee that lives in America? A USB.
 
 <!-- END -->
 
