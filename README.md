@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees have sticky hair? Because they use honey combs!
+> What's the difference between a guitar and a fish? You can tune a guitar but you can't "tuna" fish!
 
 <!-- END -->
 
