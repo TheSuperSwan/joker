@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
