@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> What did the ocean say to the shore? Nothing, it just waved.
 
 <!-- END -->
 
