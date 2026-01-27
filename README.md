@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't skeletons ride roller coasters? They don't have the stomach for it.
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
