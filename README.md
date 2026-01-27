@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fake noodle? An impasta.
+> I asked a frenchman if he played video games. He said "Wii"
 
 <!-- END -->
 
