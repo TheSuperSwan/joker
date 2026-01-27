@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
