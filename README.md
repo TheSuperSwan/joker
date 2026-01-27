@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
