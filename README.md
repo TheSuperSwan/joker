@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My cat was just sick on the carpet, I donât think itâs feline well.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
