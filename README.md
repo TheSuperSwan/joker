@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> I was wondering why the frisbee was getting bigger, then it hit me.
 
 <!-- END -->
 
