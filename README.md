@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
