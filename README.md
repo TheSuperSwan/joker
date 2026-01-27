@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that protons have mass? I didn't even know they were catholic.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
