@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> What do you call a fake noodle? An impasta.
 
 <!-- END -->
 
