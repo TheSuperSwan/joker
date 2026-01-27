@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one snowman say to the other snow man? Do you smell carrot?
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
