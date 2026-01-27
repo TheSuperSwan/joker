@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
