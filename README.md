@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's red and bad for your teeth? A Brick.
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
