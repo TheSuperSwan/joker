@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are ghosts bad liars? Because you can see right through them!
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
