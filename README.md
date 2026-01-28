@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Past, present, and future walked into a bar.... It was tense.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
