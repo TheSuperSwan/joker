@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> My wife told me to rub the herbs on the meat for better flavor. That's sage advice.
 
 <!-- END -->
 
