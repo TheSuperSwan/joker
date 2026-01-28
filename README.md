@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
