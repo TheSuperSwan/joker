@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't sharks eat clowns?  Because they taste funny.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
