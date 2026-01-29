@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
