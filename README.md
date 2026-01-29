@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
