@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm cold."
-"Go stand in the corner, I hear it's 90 degrees."
+> Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
 
 <!-- END -->
 
