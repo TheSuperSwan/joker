@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> How do you make a 'one' disappear? You add a 'g' and it's 'gone'
 
 <!-- END -->
 
