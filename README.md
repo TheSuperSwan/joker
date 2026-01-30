@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+> A Skeleton walked into a bar he said I need a beer and a mop
 
 <!-- END -->
 
