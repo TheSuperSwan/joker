@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A butcher accidentally backed into his meat grinder and got a little behind in his work that day.
+> If youâre struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
 
 <!-- END -->
 
