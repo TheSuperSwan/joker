@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> Did you hear about the runner who was criticized? He just took it in stride
 
 <!-- END -->
 
