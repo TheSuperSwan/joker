@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid cross the playground? To get to the other slide.
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
