@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do valley girls hang out in odd numbered groups? Because they can't even.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
