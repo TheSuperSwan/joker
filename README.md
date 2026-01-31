@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do sheep go to get their hair cut? The baa-baa shop.
+> What does an angry pepper do? It gets jalapeÃ±o face.
 
 <!-- END -->
 
