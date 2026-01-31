@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> I think circles are pointless.
 
 <!-- END -->
 
