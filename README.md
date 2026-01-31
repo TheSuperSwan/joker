@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My son is studying to be a surgeon, I just hope he makes the cut.
+> Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
 
 <!-- END -->
 
