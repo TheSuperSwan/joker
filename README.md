@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the grape do when he got stepped on? He let out a little wine.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
