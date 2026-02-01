@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
