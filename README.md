@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> What has ears but cannot hear? A field of corn.
 
 <!-- END -->
 
