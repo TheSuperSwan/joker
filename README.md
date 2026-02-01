@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
