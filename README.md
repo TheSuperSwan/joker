@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs E.T. short for? Heâs only got little legs.
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
