@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the submarine industry? It really took a dive...
+> I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
 
 <!-- END -->
 
