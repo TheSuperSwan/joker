@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The best time on a clock is 6:30--hands down.
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
