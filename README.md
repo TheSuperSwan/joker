@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People are making apocalypse jokes like thereâs no tomorrow.
+> "What time is it?" I don't know... it keeps changing.
 
 <!-- END -->
 
