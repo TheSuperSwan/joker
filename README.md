@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the giant pickle?  He was kind of a big dill.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
