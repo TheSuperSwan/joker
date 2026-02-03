@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A steak pun is a rare medium well done.
+> What do you call a duck that gets all A's? A wise quacker.
 
 <!-- END -->
 
