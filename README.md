@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bad at golf? Join the club.
+> My New Years resolution is to stop leaving things so late.
 
 <!-- END -->
 
