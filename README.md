@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
