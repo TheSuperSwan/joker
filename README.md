@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the doctor say to the gingerbread man who broke his leg? Try icing it.
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
