@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
