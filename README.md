@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted.
+> What do you call someone with no nose? Nobody knows.
 
 <!-- END -->
 
