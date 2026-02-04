@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you teach a kid to climb stairs? There is a step by step guide.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
