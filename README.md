@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I been watching a channel on TV that is strictly just about origami â of course it is paper-view.
+> If youâre struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
 
 <!-- END -->
 
