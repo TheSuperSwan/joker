@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the Clydesdale give the pony a glass of water? â¨Because he was a little horse!
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
