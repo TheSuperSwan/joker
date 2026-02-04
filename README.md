@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
