@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows wear bells? Because their horns don't work.
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
