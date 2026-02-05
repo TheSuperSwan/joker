@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If I could name myself after any Egyptian god, I'd be Set.
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
