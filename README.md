@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man walked in to a bar with some asphalt on his arm. He said âTwo beers please, one for me and one for the road.â
+> Whenever the cashier at the grocery store asks my dad if he would like the milk in a bag he replies, âNo, just leave it in the carton!â
 
 <!-- END -->
 
