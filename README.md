@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people eat light bulbs. They say it's a nice light snack.
+> I'm glad I know sign language, it's pretty handy.
 
 <!-- END -->
 
