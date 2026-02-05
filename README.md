@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> I was at the library and asked if they have any books on "paranoia", the librarian replied, "yes, they are right behind you"
 
 <!-- END -->
 
