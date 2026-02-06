@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a girl between two posts? Annette.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
