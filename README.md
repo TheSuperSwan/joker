@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the guy with the broken hearing aid? Neither did he.
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
