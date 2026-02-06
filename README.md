@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't your nose be 12 inches long? Because then it'd be a foot!
+> Someone broke into my house last night and stole my limbo trophy. How low can you go?
 
 <!-- END -->
 
