@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
