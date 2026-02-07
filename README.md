@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the kidnapping at school? It's ok, he woke up.
+> How do you make Lady Gaga cry? Poker face. 
 
 <!-- END -->
 
