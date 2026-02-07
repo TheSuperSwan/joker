@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of killer whales playing instruments? An Orca-stra.
+> What did the dog say to the two trees? Bark bark.
 
 <!-- END -->
 
