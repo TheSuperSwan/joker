@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you fix a broken pizza? With tomato paste.
+> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
 
 <!-- END -->
 
