@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> How do you fix a broken pizza? With tomato paste.
 
 <!-- END -->
 
