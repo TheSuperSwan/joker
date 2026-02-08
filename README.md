@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
