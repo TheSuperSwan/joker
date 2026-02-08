@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
