@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> To the guy who invented zero... thanks for nothing.
 
 <!-- END -->
 
