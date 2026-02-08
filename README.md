@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
