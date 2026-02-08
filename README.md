@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> "Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 <!-- END -->
 
