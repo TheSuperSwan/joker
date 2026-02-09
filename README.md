@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you organize a space party? You planet.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
