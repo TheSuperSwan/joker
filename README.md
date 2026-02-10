@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> I went on a date last night with a girl from the zoo. It was great. Sheâs a keeper.
 
 <!-- END -->
 
