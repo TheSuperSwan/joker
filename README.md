@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
