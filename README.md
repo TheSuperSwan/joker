@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Mountains aren't just funny, they are hill areas
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
