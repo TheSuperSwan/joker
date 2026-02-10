@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
