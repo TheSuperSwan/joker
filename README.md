@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone broke into my house last night and stole my limbo trophy. How low can you go?
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
