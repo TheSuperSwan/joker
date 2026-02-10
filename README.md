@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
