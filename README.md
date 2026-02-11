@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
