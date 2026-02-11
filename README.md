@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has three letters and starts with gas? A Car.
+> I made a belt out of watches once... It was a waist of time.
 
 <!-- END -->
 
