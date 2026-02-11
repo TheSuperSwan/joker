@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
