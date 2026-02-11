@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
