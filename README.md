@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I made a belt out of watches once... It was a waist of time.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
