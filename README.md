@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
