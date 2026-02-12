@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Napoleon keep his armies? In his sleevies.
+> What do you call a girl between two posts? Annette.
 
 <!-- END -->
 
