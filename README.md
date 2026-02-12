@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What time did the man go to the dentist? Tooth hurt-y.
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
