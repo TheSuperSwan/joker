@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> What do you call a group of disorganized cats? A cat-tastrophe.
 
 <!-- END -->
 
