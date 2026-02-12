@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
