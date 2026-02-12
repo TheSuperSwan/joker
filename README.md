@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> Where does Napoleon keep his armies? In his sleevies.
 
 <!-- END -->
 
