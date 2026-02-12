@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
