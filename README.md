@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't tell secrets in corn fields. Too many ears around.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
