@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The invention of the wheel was what got things rolling
+> What kind of magic do cows believe in? MOODOO.
 
 <!-- END -->
 
