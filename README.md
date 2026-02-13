@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+> How do you get two whales in a car? Start in England and drive West.
 
 <!-- END -->
 
