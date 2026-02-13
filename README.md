@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When do doctors get angry? When they run out of patients.
+> Why can't a bicycle stand on its own? It's two-tired.
 
 <!-- END -->
 
