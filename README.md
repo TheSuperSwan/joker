@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What concert costs only 45 cents? 50 cent featuring Nickelback.
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
