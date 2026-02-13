@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The rotation of earth really makes my day.
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
