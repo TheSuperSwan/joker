@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the m&m go to school? Because it wanted to be a Smartie!
+> I knew a guy who collected candy canes, they were all in mint condition
 
 <!-- END -->
 
