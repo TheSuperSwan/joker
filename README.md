@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> I just broke my guitar. It's okay, I won't fret
 
 <!-- END -->
 
