@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
