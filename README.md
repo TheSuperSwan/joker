@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
