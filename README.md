@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
