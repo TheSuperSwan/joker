@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew a guy who collected candy canes, they were all in mint condition
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
