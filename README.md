@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> Why did the house go to the doctor? It was having window panes.
 
 <!-- END -->
 
