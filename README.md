@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wouldn't buy anything with velcro. It's a total rip-off.
+> How do you teach a kid to climb stairs? There is a step by step guide.
 
 <!-- END -->
 
