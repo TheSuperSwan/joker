@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
+> I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
 
 <!-- END -->
 
