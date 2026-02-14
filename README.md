@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My first time using an elevator was an uplifting experience. The second time let me down.
+> We all know where the Big Apple is but does anyone know where the Minneapolis?
 
 <!-- END -->
 
