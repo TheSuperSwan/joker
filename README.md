@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the picture sent to prison? It was framed.
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
