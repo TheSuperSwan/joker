@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fake noodle? An impasta.
+> How do you teach a kid to climb stairs? There is a step by step guide.
 
 <!-- END -->
 
