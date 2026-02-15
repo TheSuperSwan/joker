@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the fish say when it swam into a wall? Damn!
+> Why was it called the dark ages? Because of all the knights. 
 
 <!-- END -->
 
