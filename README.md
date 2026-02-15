@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the beaver say to the tree? It's been nice gnawing you.
+> How do you teach a kid to climb stairs? There is a step by step guide.
 
 <!-- END -->
 
