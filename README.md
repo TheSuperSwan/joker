@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> Where do cats write notes?
+Scratch Paper!
 
 <!-- END -->
 
