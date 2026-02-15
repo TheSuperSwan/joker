@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My pet mouse 'Elvis' died last night. He was caught in a trap..
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
