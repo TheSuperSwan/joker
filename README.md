@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do rabbits go after they get married? On a bunny-moon.
+> What did the beaver say to the tree? It's been nice gnawing you.
 
 <!-- END -->
 
