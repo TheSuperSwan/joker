@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> What do bees do after they are married? They go on a honeymoon.
 
 <!-- END -->
 
