@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The great thing about stationery shops is they're always in the same place...
+> Did you hear the one about the guy with the broken hearing aid? Neither did he.
 
 <!-- END -->
 
