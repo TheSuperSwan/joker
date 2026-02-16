@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> Scientists finally did a study on forks. It's about tine!
 
 <!-- END -->
 
