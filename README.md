@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear that the police have a warrant out on a midget psychic ripping people off? It reads âSmall medium at large.â
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
