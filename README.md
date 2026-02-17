@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do we tell actors to âbreak a leg?â Because every play has a cast.
+> I was in an 80's band called the prevention. We were better than the cure.
 
 <!-- END -->
 
