@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
