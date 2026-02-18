@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> Got a new suit recently made entirely of living plants. I wasnât sure at first, but itâs grown on me
 
 <!-- END -->
 
