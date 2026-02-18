@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Han Solo like gum? It's chewy!
+> What musical instrument is found in the bathroom? A tuba toothpaste.
 
 <!-- END -->
 
