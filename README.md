@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a careful wolf? Aware wolf.
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
