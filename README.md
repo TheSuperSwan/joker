@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
