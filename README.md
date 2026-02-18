@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows wear bells? Because their horns don't work.
+> Where did you learn to make ice cream? Sunday school.
 
 <!-- END -->
 
