@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> How can you tell a vampire has a cold? They start coffin.
 
 <!-- END -->
 
