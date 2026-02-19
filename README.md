@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why canât you hear a pterodactyl go to the bathroom? The p is silent.
+> What do you call a cow on a trampoline? A milk shake!
 
 <!-- END -->
 
