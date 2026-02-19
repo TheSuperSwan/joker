@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
