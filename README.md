@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What lies at the bottom of the ocean and twitches? A nervous wreck.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
