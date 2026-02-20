@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> What do you call a boy who stopped digging holes? Douglas.
 
 <!-- END -->
 
