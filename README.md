@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> Yesterday a clown held a door open for me. I thought it was a nice jester.
 
 <!-- END -->
 
