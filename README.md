@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the green grape say to the purple grape?
-BREATH!!
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
