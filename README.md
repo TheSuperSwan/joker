@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the shy pebble wish for? That she was a little boulder.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
