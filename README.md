@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a nervous javelin thrower? Shakespeare.
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
