@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Americans can't switch from pounds to kilograms overnight. That would cause mass confusion.
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
