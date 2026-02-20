@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the difference between an African elephant and an Indian elephant? About 5000 miles.
+> Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 
 <!-- END -->
 
