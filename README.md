@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You will never guess what Elsa did to the balloon. She let it go.
+> Why did the cowboy have a weiner dog? Somebody told him to get a long little doggy.
 
 <!-- END -->
 
