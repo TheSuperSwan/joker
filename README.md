@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+> Sometimes I tuck my knees into my chest and lean forward.  Thatâs just how I roll.
 
 <!-- END -->
 
