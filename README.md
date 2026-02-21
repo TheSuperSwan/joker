@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> Chances are if you' ve seen one shopping center, you've seen a mall.
 
 <!-- END -->
 
