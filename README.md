@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The invention of the wheel was what got things rolling
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
