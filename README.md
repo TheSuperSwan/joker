@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
