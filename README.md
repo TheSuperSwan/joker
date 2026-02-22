@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
