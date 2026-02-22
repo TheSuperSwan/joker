@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't trust atoms. They make up everything.
+> How much does a hipster weigh? An instagram.
 
 <!-- END -->
 
