@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dog used to chase people on a bike a lot. It got so bad I had to take his bike away.
+> Two muffins were sitting in an oven, and the first looks over to the second, and says, âman, itâs really hot in hereâ. The second looks over at the first with a surprised look, and answers, âWHOA, a talking muffin!â
 
 <!-- END -->
 
