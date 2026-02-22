@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
