@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the zoo yesterday and saw a baguette in a cage. It was bread in captivity.
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
