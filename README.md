@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the drummer name her twin daughters? Anna One, Anna Two...
+> I got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
