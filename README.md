@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
