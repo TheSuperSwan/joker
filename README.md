@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Zen Buddist say to the hotdog vendor? Make me one with everything.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
