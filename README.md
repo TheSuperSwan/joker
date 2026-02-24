@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the pirate say on his 80th birthday? Aye Matey!
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
