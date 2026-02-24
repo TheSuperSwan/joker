@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't figure out how the seat belt worked. Then it just clicked.
+> You can't run through a camp site. You can only ran, because it's past tents.
 
 <!-- END -->
 
