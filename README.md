@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What don't watermelons get married? Because they cantaloupe.
+> What do prisoners use to call each other? Cell phones.
 
 <!-- END -->
 
