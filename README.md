@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> Leather is great for sneaking around because it's made of hide.
 
 <!-- END -->
 
