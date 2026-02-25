@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
