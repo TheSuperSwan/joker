@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> There are two types of people in this world, those who can extrapolate from incomplete data...
+> Dermatologists are always in a hurry. They spend all day making rash decisions. 
 
 <!-- END -->
 
