@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
