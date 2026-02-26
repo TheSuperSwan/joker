@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when you see a space man?
-Park your car, man.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
