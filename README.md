@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it always hot in the corner of a room? Because a corner is 90 degrees.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
