@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Pavlov's beard so soft?  Because he conditioned it.
+> Why did the girl smear peanut butter on the road? To go with the traffic jam.
 
 <!-- END -->
 
