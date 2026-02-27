@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> I ordered a chicken and an egg from Amazon. I'll let you know.
 
 <!-- END -->
 
