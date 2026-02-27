@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When you have a bladder infection, urine trouble.
+> What do you call a pile of cats?  A Meowtain.
 
 <!-- END -->
 
