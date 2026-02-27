@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Frankenstein enters a bodybuilding competition and finds he has seriously misunderstood the objective.
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
