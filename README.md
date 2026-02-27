@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ordered a chicken and an egg from Amazon. I'll let you know.
+> I saw my husband trip and fall while carrying a laundry basket full of ironed clothes. I watched it all unfold.
 
 <!-- END -->
 
