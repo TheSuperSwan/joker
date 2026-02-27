@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Waking up this morning was an eye-opening experience.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
