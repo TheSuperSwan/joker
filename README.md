@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of bagel can fly? A plain bagel.
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
