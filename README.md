@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one nut say as he chased another nut?  I'm a cashew!
+> "Hey, dad, did you get a haircut?" "No, I got them all cut."
 
 <!-- END -->
 
