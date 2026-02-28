@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> Thereâs a new type of broom out, itâs sweeping the nation.
 
 <!-- END -->
 
