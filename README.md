@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> What do you get when you cross a snowman with a vampire? Frostbite.
 
 <!-- END -->
 
