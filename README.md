@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the strawberry sad? Its parents were in a jam.
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
