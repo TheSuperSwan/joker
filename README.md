@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When will the little snake arrive? I don't know but he won't be long...
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
