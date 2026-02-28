@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fat psychic? A four-chin teller.
+> Why don't sharks eat clowns?  Because they taste funny.
 
 <!-- END -->
 
