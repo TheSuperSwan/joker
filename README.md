@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When does a joke become a dad joke? When it becomes apparent.
+> Today a girl said she recognized me from vegetarian club, but Iâm sure Iâve never met herbivore.
 
 <!-- END -->
 
