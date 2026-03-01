@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A man tried to sell me a coffin today. I told him that's the last thing I need.
+> I am terrified of elevators. Iâm going to start taking steps to avoid them.
 
 <!-- END -->
 
