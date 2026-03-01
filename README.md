@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People saying 'boo! to their friends has risen by 85% in the last year.... That's a frightening statistic.
+> Whatâs the longest word in the dictionary? Smiles. Because thereâs a mile between the two Sâs.
 
 <!-- END -->
 
