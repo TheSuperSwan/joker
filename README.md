@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do prisoners use to call each other? Cell phones.
+> I used to hate facial hair, but then it grew on me.
 
 <!-- END -->
 
