@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
