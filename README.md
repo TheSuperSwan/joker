@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm only familiar with 25 letters in the English language. I donât know why.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
