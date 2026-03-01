@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
