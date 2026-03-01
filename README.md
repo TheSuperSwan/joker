@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dinosaur loves to sleep? A stega-snore-us.
+> The invention of the wheel was what got things rolling
 
 <!-- END -->
 
