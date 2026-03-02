@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the miner get fired from his job? He took it for granite...
+> What do you call a group of killer whales playing instruments? An Orca-stra.
 
 <!-- END -->
 
