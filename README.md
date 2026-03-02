@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't eggs tell jokes? They'd crack each other up
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
