@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> What was the pumpkinâs favorite sport?
+
+Squash.
 
 <!-- END -->
 
