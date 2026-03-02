@@ -4,8 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
