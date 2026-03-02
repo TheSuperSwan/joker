@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the runner who was criticized? He just took it in stride
+> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
 
 <!-- END -->
 
