@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
 
 <!-- END -->
 
