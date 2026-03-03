@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a nervous javelin thrower? Shakespeare.
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
