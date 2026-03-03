@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
