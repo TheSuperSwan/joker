@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I couldn't get a reservation at the library. They were completely booked.
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
