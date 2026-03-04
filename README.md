@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a criminal going down the stairs? Condescending
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
