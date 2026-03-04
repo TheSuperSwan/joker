@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the belt go to prison? He held up a pair of pants!
+> Why did the half blind man fall in the well? Because he couldn't see that well!
 
 <!-- END -->
 
