@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid throw the clock out the window? He wanted to see time fly!
+> Whatâs the difference between an African elephant and an Indian elephant? About 5000 miles.
 
 <!-- END -->
 
