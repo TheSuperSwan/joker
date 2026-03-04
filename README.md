@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the shirt happy to hang around the tank top? Because it was armless
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
