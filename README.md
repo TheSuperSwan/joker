@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the half blind man fall in the well? Because he couldn't see that well!
+> What do you do on a remote island? Try and find the TV island it belongs to.
 
 <!-- END -->
 
