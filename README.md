@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I been watching a channel on TV that is strictly just about origami â of course it is paper-view.
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
