@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When does a joke become a dad joke? When it becomes apparent.
+> Why didnât the orange win the race? It ran out of juice.
 
 <!-- END -->
 
