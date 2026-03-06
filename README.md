@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Doctor you've got to help me, I'm addicted to Twitter. Doctor: I don't follow you.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
