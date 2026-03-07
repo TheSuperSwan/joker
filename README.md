@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If a child refuses to sleep during nap time, are they guilty of resisting a rest?
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
