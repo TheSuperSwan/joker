@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with no legs? Ground beef.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
