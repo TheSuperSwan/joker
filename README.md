@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> How do locomotives know where they're going? Lots of training
 
 <!-- END -->
 
