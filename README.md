@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
