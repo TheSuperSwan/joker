@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust sushi, there's something fishy about it.
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
