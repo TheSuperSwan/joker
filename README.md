@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do locomotives know where they're going? Lots of training
+> Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
 
 <!-- END -->
 
