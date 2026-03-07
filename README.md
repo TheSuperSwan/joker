@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> Why did the tree go to the dentist? It needed a root canal.
 
 <!-- END -->
 
