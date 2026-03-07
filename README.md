@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do I look like? A JOKE MACHINE!?
+> You know what they say about cliffhangers...
 
 <!-- END -->
 
