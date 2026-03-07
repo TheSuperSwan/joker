@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a vampire's favorite fruit? A blood orange.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
