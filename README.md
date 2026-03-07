@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> What do you call someone with no nose? Nobody knows.
 
 <!-- END -->
 
