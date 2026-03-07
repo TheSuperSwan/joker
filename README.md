@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> I don't trust sushi, there's something fishy about it.
 
 <!-- END -->
 
