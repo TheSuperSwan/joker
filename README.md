@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I won an argument with a weather forecaster once. His logic was cloudy...
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
