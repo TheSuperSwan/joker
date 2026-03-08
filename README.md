@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+> Did you know the first French fries weren't actually cooked in France? They were cooked in Greece.
 
 <!-- END -->
 
