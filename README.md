@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A dad washes his car with his son. But after a while, the son says, "why can't you just use a sponge?"
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
