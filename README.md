@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If two vegans are having an argument, is it still considered beef?
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
