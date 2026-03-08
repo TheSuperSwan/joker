@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> *Reversing the car* "Ah, this takes me back"
 
 <!-- END -->
 
