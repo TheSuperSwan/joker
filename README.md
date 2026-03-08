@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Cosmetic surgery used to be such a taboo subject.
-Now you can talk about Botox and nobody raises an eyebrow.
+> If two vegans are having an argument, is it still considered beef?
 
 <!-- END -->
 
