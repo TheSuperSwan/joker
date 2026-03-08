@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> *Reversing the car* "Ah, this takes me back"
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
