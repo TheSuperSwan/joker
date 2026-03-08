@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The best time on a clock is 6:30--hands down.
+> Ever wondered why bees hum? It's because they don't know the words.
 
 <!-- END -->
 
