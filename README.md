@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> What has ears but cannot hear? A field of corn.
 
 <!-- END -->
 
