@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the A go to the bathroom and come out as an E? Because he had a vowel movement.
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
