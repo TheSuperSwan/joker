@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> Why do valley girls hang out in odd numbered groups? Because they can't even.
 
 <!-- END -->
 
