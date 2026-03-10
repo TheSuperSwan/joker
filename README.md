@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust sushi, there's something fishy about it.
+> Why was the picture sent to prison? It was framed.
 
 <!-- END -->
 
