@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Just read a few facts about frogs. They were ribbiting.
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
