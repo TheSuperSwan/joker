@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 <!-- END -->
 
