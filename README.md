@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Chances are if you' ve seen one shopping center, you've seen a mall.
+> Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 <!-- END -->
 
