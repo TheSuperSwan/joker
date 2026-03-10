@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Red light say to the Green light? Don't look at me I'm changing!
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
