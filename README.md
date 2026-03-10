@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It doesn't matter how much you push the envelope. It will still be stationary.
+> What did the Red light say to the Green light? Don't look at me I'm changing!
 
 <!-- END -->
 
