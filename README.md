@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+> Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 <!-- END -->
 
