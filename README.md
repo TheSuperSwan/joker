@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> Just read a few facts about frogs. They were ribbiting.
 
 <!-- END -->
 
