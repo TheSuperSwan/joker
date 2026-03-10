@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got a reversible jacket for Christmas, I can't wait to see how it turns out.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
