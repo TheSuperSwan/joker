@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
