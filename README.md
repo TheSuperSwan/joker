@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is bread's favorite number?  Leaven.
+> I once lost a banana at court but then I appealed. 
 
 <!-- END -->
 
