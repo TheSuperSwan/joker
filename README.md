@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are basketball players messy eaters? Because they are always dribbling.
+> Whatâs brown and sounds like a bell? Dung!
 
 <!-- END -->
 
