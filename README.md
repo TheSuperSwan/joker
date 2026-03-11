@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the difference between a seal and a sea lion?
-An ion! 
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
