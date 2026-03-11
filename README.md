@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call your friend who stands in a hole? Phil.
+> What's large, grey, and doesn't matter?
+An irrelephant.
+
 
 <!-- END -->
 
