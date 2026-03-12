@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Milk is also the fastest liquid on earth â its pasteurized before you even see it
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
