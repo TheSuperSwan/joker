@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
