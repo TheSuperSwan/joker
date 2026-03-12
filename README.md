@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> Did you hear about the Mexican train killer? He had loco motives
 
 <!-- END -->
 
