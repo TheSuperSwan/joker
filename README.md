@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I am terrified of elevators. Iâm going to start taking steps to avoid them.
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
