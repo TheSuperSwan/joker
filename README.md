@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Dermatologists are always in a hurry. They spend all day making rash decisions. 
+> I am terrified of elevators. Iâm going to start taking steps to avoid them.
 
 <!-- END -->
 
