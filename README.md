@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
