@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I boiled a funny bone last night and had a laughing stock
+> What do you get when you cross a snowman with a vampire? Frostbite.
 
 <!-- END -->
 
