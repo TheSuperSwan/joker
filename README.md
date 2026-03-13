@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Camping is intense.
+> What do you call a fake noodle? An impasta.
 
 <!-- END -->
 
