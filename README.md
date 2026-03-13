@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When my wife told me to stop impersonating a flamingo, I had to put my foot down.
+> Why are giraffes so slow to apologize? Because it takes them a long time to swallow their pride.
 
 <!-- END -->
 
