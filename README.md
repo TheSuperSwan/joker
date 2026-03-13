@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a beehive without the b's? An eehive.
+> When my wife told me to stop impersonating a flamingo, I had to put my foot down.
 
 <!-- END -->
 
