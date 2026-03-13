@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pig with three eyes? Piiig
+> Why is no one friends with Dracula? Because he's a pain in the neck.
 
 <!-- END -->
 
