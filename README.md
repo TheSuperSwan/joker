@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fake noodle? An impasta.
+> The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
 
 <!-- END -->
 
