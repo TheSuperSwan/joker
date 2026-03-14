@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
