@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+> Why didn't the number 4 get into the nightclub? Because he is 2 square.
 
 <!-- END -->
 
