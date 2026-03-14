@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+> Did you hear about the runner who was criticized? He just took it in stride
 
 <!-- END -->
 
