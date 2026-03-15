@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a French skeleton say hello? Bone-jour.
+> Whats a penguins favorite relative? Aunt Arctica.
 
 <!-- END -->
 
