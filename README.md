@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is the ocean always blue? Because the shore never waves back.
+> Somebody stole my Microsoft Office and they're going to pay - you have my Word.
 
 <!-- END -->
 
