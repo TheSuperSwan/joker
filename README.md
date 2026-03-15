@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
