@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> Hear about the new restaurant called Karma? Thereâs no menu: You get what you deserve.
 
 <!-- END -->
 
