@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> What do you call a cow on a trampoline? A milk shake!
 
 <!-- END -->
 
