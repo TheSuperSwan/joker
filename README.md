@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the m&m go to school? Because it wanted to be a Smartie!
+> A magician was driving down the street and then he turned into a driveway.
 
 <!-- END -->
 
