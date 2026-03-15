@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.
 
 <!-- END -->
 
