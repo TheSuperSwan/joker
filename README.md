@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do bees do after they are married? They go on a honeymoon.
+> I always wanted to look into why I procrastinate, but I keep putting it off. 
 
 <!-- END -->
 
