@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know that cemetery up the road? People are dying to get in there.
+> I got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
