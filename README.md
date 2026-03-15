@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> Why did the miner get fired from his job? He took it for granite...
 
 <!-- END -->
 
