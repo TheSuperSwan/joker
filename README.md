@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two guys walked into a bar, the third one ducked.
+> Why are basketball players messy eaters? Because they are always dribbling.
 
 <!-- END -->
 
