@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the house go to the doctor? It was having window panes.
+> What cheese can never be yours? Nacho cheese.
 
 <!-- END -->
 
