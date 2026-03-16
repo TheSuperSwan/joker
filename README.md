@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+> What did one wall say to the other wall? I'll meet you at the corner!
 
 <!-- END -->
 
