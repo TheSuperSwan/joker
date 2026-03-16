@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> An apple a day keeps the bullies away. If you throw it hard enough.
+> Did you hear about the cow who jumped over the barbed wire fence? It was udder destruction.
 
 <!-- END -->
 
