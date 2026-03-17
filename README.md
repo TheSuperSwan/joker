@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
