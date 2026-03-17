@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an eagle who can play the piano? Talonted!
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
