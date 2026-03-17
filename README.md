@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an old snowman? Water.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
