@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
