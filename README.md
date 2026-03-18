@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
