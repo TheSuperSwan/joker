@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of pants do ghosts wear? Boo jeans.
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
