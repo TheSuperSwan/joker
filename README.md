@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
+> What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 
 <!-- END -->
 
