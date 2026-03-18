@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
