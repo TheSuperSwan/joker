@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 <!-- END -->
 
