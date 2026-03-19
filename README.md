@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A beekeeper was indicted after he confessed to years of stealing at work. They charged him with emBEEzlement
+> So a duck walks into a pharmacy and says âGive me some chap-stickâ¦ and put it on my billâ
 
 <!-- END -->
 
