@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> So a duck walks into a pharmacy and says âGive me some chap-stickâ¦ and put it on my billâ
+> A man was caught stealing in a supermarket today while balanced on the shoulders of a couple of vampires. He was charged with shoplifting on two counts. 
 
 <!-- END -->
 
