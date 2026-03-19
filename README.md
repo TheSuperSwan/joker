@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the submarine industry? It really took a dive...
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
