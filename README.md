@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> Where was the Declaration of Independence signed?
+
+At the bottom! 
 
 <!-- END -->
 
