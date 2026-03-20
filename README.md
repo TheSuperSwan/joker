@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do nurses carry around red crayons? Sometimes they need to draw blood.
+> Why did the teddy bear say ânoâ to dessert? Because she was stuffed.
 
 <!-- END -->
 
