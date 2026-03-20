@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Today a girl said she recognized me from vegetarian club, but Iâm sure Iâve never met herbivore.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
