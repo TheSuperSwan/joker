@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Child: Dad, make me a sandwich. Dad: Poof! You're a sandwich.
+> Why did the octopus beat the shark in a fight? Because it was well armed.
 
 <!-- END -->
 
