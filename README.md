@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Coffee has a tough time at my house, every morning it gets mugged.
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
