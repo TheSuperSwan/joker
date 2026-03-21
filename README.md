@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
