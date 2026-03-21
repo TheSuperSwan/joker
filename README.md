@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
