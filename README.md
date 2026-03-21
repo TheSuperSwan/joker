@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
