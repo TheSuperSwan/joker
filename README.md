@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> What did the green grape say to the purple grape?
+BREATH!!
 
 <!-- END -->
 
