@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the shirt happy to hang around the tank top? Because it was armless
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
