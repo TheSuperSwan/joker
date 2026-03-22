@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I decided to sell my Hooverâ¦ well it was just collecting dust.
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
