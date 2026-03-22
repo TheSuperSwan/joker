@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why donât skeletons ever go trick or treating? Because they have nobody to go with.
+> What kind of tree fits in your hand? A palm tree!
 
 <!-- END -->
 
