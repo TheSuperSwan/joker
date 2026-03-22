@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the green grape say to the purple grape?
-BREATH!!
+> Sgt.: Commissar! Commissar! The troops are revolting! Commissar: Well, youâre pretty repulsive yourself.
 
 <!-- END -->
 
