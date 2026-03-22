@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> Where do fish keep their money? In the riverbank
 
 <!-- END -->
 
