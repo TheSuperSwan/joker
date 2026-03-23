@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
