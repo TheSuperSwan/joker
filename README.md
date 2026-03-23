@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> Have you heard of the band 1023MB? They haven't got a gig yet.
 
 <!-- END -->
 
