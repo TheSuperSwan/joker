@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of disorganized cats? A cat-tastrophe.
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
