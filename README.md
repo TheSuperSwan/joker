@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 <!-- END -->
 
