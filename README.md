@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+> "Dad, do you think it's going to snow this winter?" "I dont know, its all up in the air"
 
 <!-- END -->
 
