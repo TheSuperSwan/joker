@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What are the strongest days of the week? Saturday and Sunday...the rest are weekdays.
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
