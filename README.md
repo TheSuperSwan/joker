@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> My friend said to me: "What rhymes with orange" I said: "no it doesn't"
 
 <!-- END -->
 
