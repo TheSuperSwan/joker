@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> I ate a clock yesterday. It was so time consuming.
 
 <!-- END -->
 
