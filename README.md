@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What don't watermelons get married? Because they cantaloupe.
+> Why is it so windy inside an arena? All those fans.
 
 <!-- END -->
 
