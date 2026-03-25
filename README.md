@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the barber win the race? He took a short cut.
+> When you have a bladder infection, urine trouble.
 
 <!-- END -->
 
