@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do bees go to the bathroom?  The BP station.
+> What kind of pants do ghosts wear? Boo jeans.
 
 <!-- END -->
 
