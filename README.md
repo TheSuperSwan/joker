@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the miner get fired from his job? He took it for granite...
+> I was shocked when I was diagnosed as colorblind... It came out of the purple.
 
 <!-- END -->
 
