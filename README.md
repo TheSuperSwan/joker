@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
+> I asked my date to go to the gym the other day. They never showed up. That's when I knew we wouldn't work out.
 
 <!-- END -->
 
