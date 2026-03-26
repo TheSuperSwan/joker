@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is Peter Pan always flying? Because he Neverlands.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
