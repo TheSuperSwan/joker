@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a female snake. misssssssss 
+> Why do trees seem suspicious on sunny days? Dunno, they're just a bit shady.
 
 <!-- END -->
 
