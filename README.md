@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> My dentist is the best, he even has a little plaque!
 
 <!-- END -->
 
