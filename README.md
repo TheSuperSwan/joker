@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> When will the little snake arrive? I don't know but he won't be long...
 
 <!-- END -->
 
