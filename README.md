@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has a bed that you canât sleep in? A river.
+> Why does Han Solo like gum? It's chewy!
 
 <!-- END -->
 
