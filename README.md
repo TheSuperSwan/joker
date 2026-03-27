@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's been months since I bought the book "how to scam people online". It still hasn't turned up.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
