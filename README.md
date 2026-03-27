@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Han Solo like gum? It's chewy!
+> Have you heard the story about the magic tractor? It drove down the road and turned into a field.
 
 <!-- END -->
 
