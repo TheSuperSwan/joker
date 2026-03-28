@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
