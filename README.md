@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I started a new business making yachts in my attic this year...the sails are going through the roof
+> If youâre struggling to think of what to get someone for Christmas. Get them a fridge and watch their face light up when they open it.
 
 <!-- END -->
 
