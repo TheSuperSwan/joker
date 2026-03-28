@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is the pool safe for diving? It deep ends.
+> Whereâs the bin? Dad: I havenât been anywhere!
 
 <!-- END -->
 
