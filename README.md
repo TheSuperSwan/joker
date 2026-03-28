@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
