@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
