@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base? Because thereâs a Shortstop in between!
+> What did celery say when he broke up with his girlfriend? She wasn't right for me, so I really don't carrot all.
 
 <!-- END -->
 
