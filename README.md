@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A police officer caught two kids playing with a firework and a car battery. He charged one and let the other one off.
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
