@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do bees do after they are married? They go on a honeymoon.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
