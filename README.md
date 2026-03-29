@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My dentist is the best, he even has a little plaque!
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
