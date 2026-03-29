@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be a banker, but I lost interest.
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
