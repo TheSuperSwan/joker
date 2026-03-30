@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> Why do choirs keep buckets handy? So they can carry their tune
 
 <!-- END -->
 
