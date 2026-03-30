@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
