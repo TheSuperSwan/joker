@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
