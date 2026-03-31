@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
