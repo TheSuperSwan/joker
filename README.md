@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I needed a password eight characters long so I picked Snow White and the Seven Dwarfs.
+> Why is the new Kindle screen textured to look like paper? So you feel write at home.
 
 <!-- END -->
 
