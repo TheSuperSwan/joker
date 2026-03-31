@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Is there a hole in your shoe? Noâ¦ Then howâd you get your foot in it?
+> Where do sheep go to get their hair cut? The baa-baa shop.
 
 <!-- END -->
 
