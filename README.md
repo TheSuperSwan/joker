@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I gave all my dead batteries away today, free of charge.
+> My New Years resolution is to stop leaving things so late.
 
 <!-- END -->
 
