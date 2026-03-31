@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do choirs keep buckets handy? So they can carry their tune
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
