@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
 
 <!-- END -->
 
