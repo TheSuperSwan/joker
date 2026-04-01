@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> Why did the opera singer go sailing? They wanted to hit the high Cs.
 
 <!-- END -->
 
