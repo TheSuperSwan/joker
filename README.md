@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many South Americans does it take to change a lightbulb? A Brazilian
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
