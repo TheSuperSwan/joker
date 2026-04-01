@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Red light say to the Green light? Don't look at me I'm changing!
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
