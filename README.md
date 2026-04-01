@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What lies at the bottom of the ocean and twitches? A nervous wreck.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
