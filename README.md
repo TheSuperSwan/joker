@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> What do you get when you cross a pig and a pineapple? A porky pine
 
 <!-- END -->
 
