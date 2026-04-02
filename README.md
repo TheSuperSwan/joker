@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
