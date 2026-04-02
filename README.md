@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The invention of the wheel was what got things rolling
+> *Reversing the car* "Ah, this takes me back"
 
 <!-- END -->
 
