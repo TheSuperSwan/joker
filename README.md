@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What type of music do balloons hate? Pop music!
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
