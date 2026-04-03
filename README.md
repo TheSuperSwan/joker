@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> Two silk worms had a race. They ended up in a tie.
 
 <!-- END -->
 
