@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a tornado's favorite game to play? Twister!
+> What kind of music do planets listen to? Nep-tunes.
 
 <!-- END -->
 
