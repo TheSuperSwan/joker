@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> Do I enjoy making courthouse puns? Guilty
 
 <!-- END -->
 
