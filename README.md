@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
