@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
