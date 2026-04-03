@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do I enjoy making courthouse puns? Guilty
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
