@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the digital clock say to the grandfather clock? Look, no hands!
+> Whoever invented the knock-knock joke should get a no bell prize.
 
 <!-- END -->
 
