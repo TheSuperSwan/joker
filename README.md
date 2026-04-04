@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I don't trust stairs. They're always up to something.
+> An apple a day keeps the bullies away. If you throw it hard enough.
 
 <!-- END -->
 
