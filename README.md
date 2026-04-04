@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My boss told me to attach two pieces of wood together... I totally nailed it!
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
