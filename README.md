@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> Why donât seagulls fly over the bay? Because then theyâd be bay-gulls!
 
 <!-- END -->
 
