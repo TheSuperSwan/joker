@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the calculator say to the student? You can count on me.
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
