@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of killer whales playing instruments? An Orca-stra.
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
