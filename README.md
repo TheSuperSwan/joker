@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy whose whole left side was cut off? He's all right now.
+> If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
 
 <!-- END -->
 
