@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Sore throats are a pain in the neck!
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
