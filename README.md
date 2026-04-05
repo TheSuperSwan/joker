@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
