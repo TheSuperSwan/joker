@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When Dad drops a pea off of his plate âoh dear Iâve peeâd on the table!
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
