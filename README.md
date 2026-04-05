@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the new restaurant on the moon? The food is great, but thereâs just no atmosphere.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
