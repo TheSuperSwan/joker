@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Yoda say when he saw himself in 4K? "HDMI"
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
