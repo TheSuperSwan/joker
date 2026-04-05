@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
