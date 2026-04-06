@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
