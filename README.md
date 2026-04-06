@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the father tomato say to the baby tomato whilst on a family walk? Ketchup.
+> Some people eat light bulbs. They say it's a nice light snack.
 
 <!-- END -->
 
