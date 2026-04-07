@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the late tomato say to the early tomato? Iâll ketch up
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
