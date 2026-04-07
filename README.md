@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Yesterday a clown held a door open for me. I thought it was a nice jester.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
