@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the belt go to prison? He held up a pair of pants!
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
