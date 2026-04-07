@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when your bunny gets wet? You get your hare dryer.
+> What do you get when you cross a bee and a sheep? A bah-humbug.
+
 
 <!-- END -->
 
