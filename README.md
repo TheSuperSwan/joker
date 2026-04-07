@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you find Will Smith in the snow?  Look for fresh prints.
+> Why did the banana go to the doctor? He was not "peeling" well.
 
 <!-- END -->
 
