@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+> Want to hear a chimney joke? Got stacks of em! First one's on the house
 
 <!-- END -->
 
