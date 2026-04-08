@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
+> Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
 
 <!-- END -->
 
