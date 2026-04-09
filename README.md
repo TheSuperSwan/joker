@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do the trees get on the internet? They log on.
+> What kind of award did the dentist receive? A little plaque.
 
 <!-- END -->
 
