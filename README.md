@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of award did the dentist receive? A little plaque.
+> I ate a clock yesterday. It was so time consuming.
 
 <!-- END -->
 
