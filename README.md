@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was in an 80's band called the prevention. We were better than the cure.
+> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
 
 <!-- END -->
 
