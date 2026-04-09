@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> I saw a documentary on TV last night about how they put ships together.  It was rivetting.
 
 <!-- END -->
 
