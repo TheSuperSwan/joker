@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the best way to carve?
-Whittle by whittle.
+> How many kids with ADD does it take to change a lightbulb? Let's go ride bikes!
 
 <!-- END -->
 
