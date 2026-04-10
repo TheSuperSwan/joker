@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do sheep go to get their hair cut? The baa-baa shop.
+> What did the sea say to the sand? "We have to stop meeting like this."
 
 <!-- END -->
 
