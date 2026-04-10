@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
 
 <!-- END -->
 
