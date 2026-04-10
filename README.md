@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
