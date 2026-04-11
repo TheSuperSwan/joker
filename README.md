@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
