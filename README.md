@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> This furniture store keeps emailing me, all I wanted was one night stand!
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
