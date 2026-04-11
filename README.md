@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't your nose be 12 inches long? Because then it'd be a foot!
+> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
 
 <!-- END -->
 
