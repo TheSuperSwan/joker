@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
