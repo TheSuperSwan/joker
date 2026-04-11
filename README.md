@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a pig and a pineapple? A porky pine
+> Why do we tell actors to âbreak a leg?â Because every play has a cast.
 
 <!-- END -->
 
