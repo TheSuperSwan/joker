@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was a more important invention than the first telephone? The second one.
+> Why was it called the dark ages? Because of all the knights. 
 
 <!-- END -->
 
