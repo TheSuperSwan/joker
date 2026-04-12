@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> Whereâs the bin? Dad: I havenât been anywhere!
 
 <!-- END -->
 
