@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whereâs the bin? Dad: I havenât been anywhere!
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
