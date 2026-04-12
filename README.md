@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What biscuit does a short person like? Shortbread. 
+> Man, I really love my furniture... me and my recliner go way back.
 
 <!-- END -->
 
