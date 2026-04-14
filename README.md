@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
