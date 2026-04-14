@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just read a book about Stockholm syndrome. It was pretty bad at first, but by the end I liked it.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
