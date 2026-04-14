@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve just been reading a book about anti-gravity, itâs impossible to put down!
+> What did the pirate say on his 80th birthday? Aye Matey!
 
 <!-- END -->
 
