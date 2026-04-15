@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My pet mouse 'Elvis' died last night. He was caught in a trap..
+> Why did the man run around his bed? Because he was trying to catch up on his sleep!
 
 <!-- END -->
 
