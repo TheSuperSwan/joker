@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The invention of the wheel was what got things rolling
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
