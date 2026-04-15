@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My cat was just sick on the carpet, I donât think itâs feline well.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
