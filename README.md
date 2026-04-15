@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
