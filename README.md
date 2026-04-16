@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I gave all my dead batteries away today, free of charge.
+> Some people eat light bulbs. They say it's a nice light snack.
 
 <!-- END -->
 
