@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do I look like? A JOKE MACHINE!?
+> How come a man driving a train got struck by lightning? He was a good conductor.
 
 <!-- END -->
 
