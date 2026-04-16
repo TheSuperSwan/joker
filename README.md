@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
