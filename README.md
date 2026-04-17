@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the longest word in the dictionary? Smiles. Because thereâs a mile between the two Sâs.
+> I was just looking at my ceiling. Not sure if itâs the best ceiling in the world, but itâs definitely up there.
 
 <!-- END -->
 
