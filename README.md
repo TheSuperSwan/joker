@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a scientist freshen their breath? With experi-mints!
+> Did you hear about the Mexican train killer? He had loco motives
 
 <!-- END -->
 
