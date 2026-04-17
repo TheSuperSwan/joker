@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two peanuts were walking down the street. One was a salted
+> Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 <!-- END -->
 
