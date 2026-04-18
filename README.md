@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
