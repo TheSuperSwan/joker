@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> I gave all my dead batteries away today, free of charge.
 
 <!-- END -->
 
