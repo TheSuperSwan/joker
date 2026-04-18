@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âDoctor, Iâve broken my arm in several placesâ Doctor âWell donât go to those places.â
+> How many seconds are in a year?
+12.
+January 2nd, February 2nd, March 2nd, April 2nd.... etc
 
 <!-- END -->
 
