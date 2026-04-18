@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of bagel can fly? A plain bagel.
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
