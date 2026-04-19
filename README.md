@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> How does a penguin build itâs house? Igloos it together.
 
 <!-- END -->
 
