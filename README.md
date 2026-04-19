@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My friend told me that pepper is the best seasoning for a roast, but I took it with a grain of salt.
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
