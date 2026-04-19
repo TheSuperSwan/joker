@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'll tell you what often gets over looked... garden fences.
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
