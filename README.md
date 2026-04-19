@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't sharks eat clowns?  Because they taste funny.
+> It doesn't matter how much you push the envelope. It will still be stationary.
 
 <!-- END -->
 
