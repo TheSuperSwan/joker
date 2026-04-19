@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> Where did Captain Hook get his hook? From a second hand store.
 
 <!-- END -->
 
