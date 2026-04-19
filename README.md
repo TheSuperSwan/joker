@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> I'll tell you what often gets over looked... garden fences.
 
 <!-- END -->
 
