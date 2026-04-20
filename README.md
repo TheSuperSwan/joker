@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an alligator in a vest? An in-vest-igator!
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
