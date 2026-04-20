@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
