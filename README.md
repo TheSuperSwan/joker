@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What musical instrument is found in the bathroom? A tuba toothpaste.
+> What don't watermelons get married? Because they cantaloupe.
 
 <!-- END -->
 
