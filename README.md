@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> Never Trust Someone With Graph Paper...
+
+They're always plotting something.
 
 <!-- END -->
 
