@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> Some people eat light bulbs. They say it's a nice light snack.
 
 <!-- END -->
 
