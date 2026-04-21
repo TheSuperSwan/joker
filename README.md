@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> A quick shoutout to all of the sidewalks out there... Thanks for keeping me off the streets.
 
 <!-- END -->
 
