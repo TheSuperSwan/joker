@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are pirates called pirates? Because they arrr!
+> Don't buy flowers at a monastery. Because only you can prevent florist friars.
 
 <!-- END -->
 
