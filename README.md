@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs the advantage of living in Switzerland? Well, the flag is a big plus.
+> Never take advice from electrons. They are always negative.
 
 <!-- END -->
 
