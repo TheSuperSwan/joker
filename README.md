@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I wish I could clean mirrors for a living. It's just something I can see myself doing.
+> How do you find Will Smith in the snow?  Look for fresh prints.
 
 <!-- END -->
 
