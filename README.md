@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to soap, but I'm clean now.
+> Did you hear about the bread factory burning down? They say the business is toast.
 
 <!-- END -->
 
