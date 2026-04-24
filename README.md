@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> I used to be addicted to soap, but I'm clean now.
 
 <!-- END -->
 
