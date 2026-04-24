@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you steal a coat? You jacket.
+> How does a dyslexic poet write? Inverse.
 
 <!-- END -->
 
