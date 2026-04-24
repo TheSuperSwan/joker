@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I hate perforated lines, they're tearable.
+> I decided to sell my Hooverâ¦ well it was just collecting dust.
 
 <!-- END -->
 
