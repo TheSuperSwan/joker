@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
