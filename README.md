@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
