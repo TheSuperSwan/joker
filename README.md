@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> Some people say that I never got over my obsession with Phil Collins.
+But take a look at me now.
 
 <!-- END -->
 
