@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
