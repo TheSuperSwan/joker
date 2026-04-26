@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Velcroâ¦ What a rip-off.
+> Where does Napoleon keep his armies? In his sleevies.
 
 <!-- END -->
 
