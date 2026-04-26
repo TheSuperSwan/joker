@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm glad I know sign language, it's pretty handy.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
