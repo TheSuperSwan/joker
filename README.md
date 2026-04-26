@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the leading cause of dry skin? Towels
+> Why is it so windy inside an arena? All those fans.
 
 <!-- END -->
 
