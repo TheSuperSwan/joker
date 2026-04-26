@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Napoleon keep his armies? In his sleevies.
+> What kind of pants do ghosts wear? Boo jeans.
 
 <!-- END -->
 
