@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+> Why is it always hot in the corner of a room? Because a corner is 90 degrees.
 
 <!-- END -->
 
