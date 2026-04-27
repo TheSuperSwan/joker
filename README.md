@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to hate facial hair, but then it grew on me.
+> What did the digital clock say to the grandfather clock? Look, no hands!
 
 <!-- END -->
 
