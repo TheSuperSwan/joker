@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My New Years resolution is to stop leaving things so late.
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
