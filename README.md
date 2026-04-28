@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the calculator say to the student? You can count on me.
+> Why do you never see elephants hiding in trees? Because they're so good at it.
 
 <!-- END -->
 
