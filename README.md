@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How much does a hipster weigh? An instagram.
+> What kind of music do planets listen to? Nep-tunes.
 
 <!-- END -->
 
