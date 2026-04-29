@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
