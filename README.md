@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What happens to a frog's car when it breaks down? It gets toad.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
