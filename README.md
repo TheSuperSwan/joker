@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> Why should you never trust a pig with a secret? Because it's bound to squeal.
 
 <!-- END -->
 
