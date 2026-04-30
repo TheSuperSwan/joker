@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It was so cold yesterday my computer froze. My own fault though, I left too many windows open.
+> Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
 <!-- END -->
 
