@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The shovel was a ground-breaking invention.
+> Why don't eggs tell jokes? They'd crack each other up
 
 <!-- END -->
 
