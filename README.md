@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
