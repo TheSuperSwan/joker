@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'm sorry." "Hi sorry, I'm dad"
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
