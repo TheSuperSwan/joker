@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do robots eat guacamole? With computer chips.
+> This morning I was wondering where the sun was, but then it dawned on me.
 
 <!-- END -->
 
