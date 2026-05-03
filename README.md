@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
