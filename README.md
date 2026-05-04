@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Michael Jackson name his denim store?    Billy Jeans!
+> Why did Dracula lie in the wrong coffin? He made a grave mistake.
 
 <!-- END -->
 
