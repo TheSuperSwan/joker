@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âHold on, I have something in my shoeâ  âIâm pretty sure itâs a footâ
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
