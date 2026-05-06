@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Remember, the best angle to approach a problem from is the "try" angle.
+> I got fired from a florist, apparently I took too many leaves.
 
 <!-- END -->
 
