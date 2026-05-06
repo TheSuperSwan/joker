@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> Two silk worms had a race. They ended up in a tie.
 
 <!-- END -->
 
