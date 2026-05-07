@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the drummer name her twin daughters? Anna One, Anna Two...
+> Breaking news! Energizer Bunny arrested â charged with battery.
 
 <!-- END -->
 
