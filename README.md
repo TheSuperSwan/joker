@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> What do you call a snake who builds houses? A boa constructor!
 
 <!-- END -->
 
