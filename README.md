@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you take someone whoâs been injured in a peek-a-boo accident? To the I.C.U.
+> How do you teach a kid to climb stairs? There is a step by step guide.
 
 <!-- END -->
 
