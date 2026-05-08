@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's black and white and read all over? The newspaper.
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
