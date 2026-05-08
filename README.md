@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one wall say to the other wall? I'll meet you at the corner!
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
