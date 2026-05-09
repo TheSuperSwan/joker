@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 
 <!-- END -->
 
