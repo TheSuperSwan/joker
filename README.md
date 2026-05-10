@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a rough day, and then somebody went and ripped the front and back pages from my dictionary. It just goes from bad to worse.
+> Did you know you should always take an extra pair of pants golfing? Just in case you get a hole in one.
 
 <!-- END -->
 
