@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the sea say to the sand? "We have to stop meeting like this."
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
