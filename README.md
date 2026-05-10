@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I tried to write a chemistry joke, but could never get a reaction.
+> I boiled a funny bone last night and had a laughing stock
 
 <!-- END -->
 
