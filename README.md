@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> There's not really any training for garbagemen. They just pick things up as they go.
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
