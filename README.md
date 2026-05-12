@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> What did the left eye say to the right eye? Between us, something smells!
 
 <!-- END -->
 
