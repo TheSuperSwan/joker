@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bear with no teeth? A gummy bear!
+> Why can't you use "Beef stew" as a password? Because it's not stroganoff.
 
 <!-- END -->
 
