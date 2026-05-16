@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
