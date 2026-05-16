@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
+> What kind of dinosaur loves to sleep? A stega-snore-us.
 
 <!-- END -->
 
