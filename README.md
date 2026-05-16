@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> A boy dug three holes in the yard. When his mother saw, she exclaimed: "well, well, well"
 
 <!-- END -->
 
