@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Bad at golf? Join the club.
+> Why was the big cat disqualified from the race? Because it was a cheetah.
 
 <!-- END -->
 
