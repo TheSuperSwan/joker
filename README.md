@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the big flower say to the littler flower? Hi, bud!
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
