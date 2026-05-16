@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a hankie dance? Put a little boogie in it.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
