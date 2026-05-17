@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Breaking news! Energizer Bunny arrested â charged with battery.
+> I was wondering why the frisbee was getting bigger, then it hit me.
 
 <!-- END -->
 
