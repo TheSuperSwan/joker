@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> How do you teach a kid to climb stairs? There is a step by step guide.
 
 <!-- END -->
 
