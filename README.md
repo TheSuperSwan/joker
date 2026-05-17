@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was wondering why the frisbee was getting bigger, then it hit me.
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
