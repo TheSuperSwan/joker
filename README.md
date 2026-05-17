@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> Whatâs E.T. short for? Heâs only got little legs.
 
 <!-- END -->
 
