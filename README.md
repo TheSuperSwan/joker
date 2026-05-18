@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the chameleon who couldn't change color? They had a reptile dysfunction.
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
