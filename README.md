@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs E.T. short for? Heâs only got little legs.
+> Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 <!-- END -->
 
