@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fat psychic? A four-chin teller.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
