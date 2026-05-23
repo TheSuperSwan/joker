@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+> I couldn't figure out how the seat belt worked. Then it just clicked.
 
 <!-- END -->
 
