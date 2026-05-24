@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a bee and a sheep? A bah-humbug.
-
+> What do you call a guy lying on your doorstep? Matt.
 
 <!-- END -->
 
