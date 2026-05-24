@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
+> They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 <!-- END -->
 
