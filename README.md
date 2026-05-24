@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> Animal Fact #25: Most bobcats are not named bob.
 
 <!-- END -->
 
