@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have the heart of a lion... and a lifetime ban from the San Diego Zoo.
+> I went to the zoo the other day, there was only one dog in it. It was a shitzu.
 
 <!-- END -->
 
