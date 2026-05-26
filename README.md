@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do the trees get on the internet? They log on.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
