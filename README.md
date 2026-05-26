@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If you want a job in the moisturizer industry, the best advice I can give is to apply daily.
+> Do I enjoy making courthouse puns? Guilty
 
 <!-- END -->
 
