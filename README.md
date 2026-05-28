@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the banana go to the doctor? He was not "peeling" well.
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
