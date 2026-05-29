@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for a soft drink can crusher. It was soda pressing.
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
