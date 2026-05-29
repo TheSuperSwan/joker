@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
