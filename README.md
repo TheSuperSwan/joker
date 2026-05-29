@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> Where does batman go to the bathroom? The batroom.
 
 <!-- END -->
 
