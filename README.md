@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
