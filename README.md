@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does batman go to the bathroom? The batroom.
+> I went to a Foo Fighters Concert once... It was Everlong...
 
 <!-- END -->
 
