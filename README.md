@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are oranges the smartest fruit? Because they are made to concentrate. 
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
