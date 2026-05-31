@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What was the pumpkinâs favorite sport?
-
-Squash.
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
