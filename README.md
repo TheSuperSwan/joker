@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger chopping cheese, but I think that I may have grater problems.
+> What is this movie about? It is about 2 hours long.
 
 <!-- END -->
 
