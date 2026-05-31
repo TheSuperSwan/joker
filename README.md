@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> New atoms frequently lose electrons when they fail to keep an ion them.
 
 <!-- END -->
 
