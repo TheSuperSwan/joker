@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a female snake. misssssssss 
+> Did you hear about the Mexican train killer? He had loco motives
 
 <!-- END -->
 
