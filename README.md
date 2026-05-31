@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the Mexican train killer? He had loco motives
+> Some people eat light bulbs. They say it's a nice light snack.
 
 <!-- END -->
 
