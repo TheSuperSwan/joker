@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> New atoms frequently lose electrons when they fail to keep an ion them.
+> What concert costs only 45 cents? 50 cent featuring Nickelback.
 
 <!-- END -->
 
