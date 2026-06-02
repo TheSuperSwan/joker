@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get when you cross a snowman with a vampire? Frostbite.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
