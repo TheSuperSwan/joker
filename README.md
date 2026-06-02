@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+> What's the difference between a rooster and a crow? A rooster can crow but a crow cannot rooster.
 
 <!-- END -->
 
