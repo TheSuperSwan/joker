@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the kid throw the clock out the window? He wanted to see time fly!
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
