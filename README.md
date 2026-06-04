@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
