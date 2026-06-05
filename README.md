@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> I went to the doctor today and he told me I had type A blood but it was a type O.
 
 <!-- END -->
 
