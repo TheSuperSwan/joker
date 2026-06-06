@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> I gave all my dead batteries away today, free of charge.
 
 <!-- END -->
 
