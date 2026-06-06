@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the doctor today and he told me I had type A blood but it was a type O.
+> Want to hear a joke about construction? Nah, I'm still working on it.
 
 <!-- END -->
 
