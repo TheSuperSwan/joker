@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I gave all my dead batteries away today, free of charge.
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
