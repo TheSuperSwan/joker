@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the burglar hang his mugshot on the wall? To prove that he was framed!
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
