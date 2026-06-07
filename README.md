@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+> I'd like to start a diet, but I've got too much on my plate right now.
 
 <!-- END -->
 
