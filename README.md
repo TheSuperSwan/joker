@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> Why did the miner get fired from his job? He took it for granite...
 
 <!-- END -->
 
