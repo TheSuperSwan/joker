@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I knew a guy who collected candy canes, they were all in mint condition
+> I used to work in a shoe recycling shop. It was sole destroying.
 
 <!-- END -->
 
