@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work in a shoe recycling shop. It was sole destroying.
+> Why did the cookie cry?
+Because his mother was a wafer so long
 
 <!-- END -->
 
