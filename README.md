@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a troublesome Canadian high schooler? A poutine.
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
