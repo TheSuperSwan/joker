@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> What did the ocean say to the shore? Nothing, it just waved.
 
 <!-- END -->
 
