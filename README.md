@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I heard there was a new store called Moderation. They have everything there
+> Whats a penguins favorite relative? Aunt Arctica.
 
 <!-- END -->
 
