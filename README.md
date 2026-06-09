@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I accidentally took my cats meds last night. Donât ask meow.
+> I heard there was a new store called Moderation. They have everything there
 
 <!-- END -->
 
