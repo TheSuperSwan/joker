@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Dad, I'm hungry." Hello, Hungry. I'm Dad.
+> Why do crabs never give to charity? Because theyâre shellfish.
 
 <!-- END -->
 
