@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I ate a clock yesterday. It was so time consuming.
+> What happens when you anger a brain surgeon? They will give you a piece of your mind.
 
 <!-- END -->
 
