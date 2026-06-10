@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I got fired from a florist, apparently I took too many leaves.
+> What did the dog say to the two trees? Bark bark.
 
 <!-- END -->
 
