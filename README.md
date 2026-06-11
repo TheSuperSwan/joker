@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Me and my mates are in a band called Duvet. We're a cover band.
+> Why did the belt go to prison? He held up a pair of pants!
 
 <!-- END -->
 
