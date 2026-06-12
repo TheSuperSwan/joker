@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does Darth Vader like his toast? On the dark side.
+> What did the 0 say to the 8? Nice belt.
 
 <!-- END -->
 
