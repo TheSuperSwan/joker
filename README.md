@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Nurse: Doctor, there's a patient that says he's invisible. Doctor: Well, tell him I can't see him right now!
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
