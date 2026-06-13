@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> Why do scuba divers fall backwards into the water? Because if they fell forwards theyâd still be in the boat.
 
 <!-- END -->
 
