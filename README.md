@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a group of killer whales playing instruments? An Orca-stra.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
