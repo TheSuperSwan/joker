@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+> Where do bees go to the bathroom?  The BP station.
 
 <!-- END -->
 
