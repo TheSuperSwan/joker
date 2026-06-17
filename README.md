@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Michael Jackson name his denim store?    Billy Jeans!
+> I used to hate facial hair, but then it grew on me.
 
 <!-- END -->
 
