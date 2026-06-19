@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> What does a female snake use for support? A co-Bra!
 
 <!-- END -->
 
