@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> Did you hear about the guy who invented Lifesavers? They say he made a mint.
 
 <!-- END -->
 
