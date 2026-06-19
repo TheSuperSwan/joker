@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A Skeleton walked into a bar he said I need a beer and a mop
+> I burned 2000 calories today, I left my food in the oven for too long.
 
 <!-- END -->
 
