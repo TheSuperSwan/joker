@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make holy water? You boil the hell out of it.
+> Iâm only familiar with 25 letters in the English language. I donât know why.
 
 <!-- END -->
 
