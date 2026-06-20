@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> I don't trust stairs. They're always up to something.
 
 <!-- END -->
 
