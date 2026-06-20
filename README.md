@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy who invented Lifesavers? They say he made a mint.
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
