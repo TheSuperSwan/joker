@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've got a joke about vegetables for you... but it's a bit corny.
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
