@@ -4,7 +4,13 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me, what's the ninth letter of the alphabet? It was a complete guess, but I was right.
+> Wife: Honey Iâm pregnant.
+
+Me: Wellâ¦. what do we do now?
+
+Wife: Well, I guess we should go to a baby doctor.
+
+Me: Hm.. I think Iâd be a lot more comfortable going to an adult doctor.
 
 <!-- END -->
 
