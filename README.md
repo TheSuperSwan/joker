@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the kidnapping at school? It's ok, he woke up.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
