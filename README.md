@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> Did you hear about the kidnapping at school? It's ok, he woke up.
 
 <!-- END -->
 
