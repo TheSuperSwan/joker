@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I donât play soccer because I enjoy the sport. Iâm just doing it for kicks.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
