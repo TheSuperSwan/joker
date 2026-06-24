@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
