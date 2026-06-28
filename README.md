@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I had a dream that I was a muffler last night. I woke up exhausted!
+> Parallel lines have so much in common. Itâs a shame theyâll never meet.
 
 <!-- END -->
 
