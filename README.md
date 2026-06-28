@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The Swiss must've been pretty confident in their chances of victory if they included a corkscrew in their army knife.
+> It's been months since I bought the book "how to scam people online". It still hasn't turned up.
 
 <!-- END -->
 
