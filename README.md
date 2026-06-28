@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My sea sickness comes in waves.
+> Why was the robot angry? Because someone kept pressing his buttons!
 
 <!-- END -->
 
