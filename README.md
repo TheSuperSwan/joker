@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do the trees get on the internet? They log on.
+> I just broke my guitar. It's okay, I won't fret
 
 <!-- END -->
 
