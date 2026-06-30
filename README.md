@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fly without wings? A walk.
+> A book just fell on my head. I only have my shelf to blame.
 
 <!-- END -->
 
