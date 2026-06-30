@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Yoda say when he saw himself in 4K? "HDMI"
+> A girl once asked me what my heart desired, apparently blood, oxygen and neural messages were all wrong answers
 
 <!-- END -->
 
