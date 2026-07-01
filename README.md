@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> What do you call a pig that knows karate? A pork chop!
 
 <!-- END -->
 
