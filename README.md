@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I have kleptomania, but when it gets bad, I take something for it.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
