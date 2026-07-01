@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I been watching a channel on TV that is strictly just about origami â of course it is paper-view.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
