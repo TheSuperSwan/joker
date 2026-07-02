@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call two guys hanging out by your window? Kurt & Rod.
+> I wouldn't buy anything with velcro. It's a total rip-off.
 
 <!-- END -->
 
