@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I cut my finger chopping cheese, but I think that I may have grater problems.
+> I have kleptomania, but when it gets bad, I take something for it.
 
 <!-- END -->
 
