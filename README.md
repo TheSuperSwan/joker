@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If two vegans are having an argument, is it still considered beef?
+> Why don't skeletons ride roller coasters? They don't have the stomach for it.
 
 <!-- END -->
 
