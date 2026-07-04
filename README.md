@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
