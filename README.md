@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the half blind man fall in the well? Because he couldn't see that well!
+> You will never guess what Elsa did to the balloon. She let it go.
 
 <!-- END -->
 
