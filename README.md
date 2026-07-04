@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "I'll call you later." Don't call me later, call me Dad.
+> If two vegans are having an argument, is it still considered beef?
 
 <!-- END -->
 
