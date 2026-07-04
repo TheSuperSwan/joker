@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> How many tickles does it take to tickle an octopus? Ten-tickles!
 
 <!-- END -->
 
