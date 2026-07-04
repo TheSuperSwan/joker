@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You will never guess what Elsa did to the balloon. She let it go.
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
