@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
