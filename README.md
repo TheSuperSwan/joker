@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> Don't tell secrets in corn fields. Too many ears around.
 
 <!-- END -->
 
