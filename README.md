@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Han Solo like gum? It's chewy!
+> Why do bananas have to put on sunscreen before they go to the beach? Because they might peel!
 
 <!-- END -->
 
