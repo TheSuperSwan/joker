@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come the stadium got hot after the game? Because all of the fans left.
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
