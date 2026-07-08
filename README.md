@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I once lost a banana at court but then I appealed. 
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
