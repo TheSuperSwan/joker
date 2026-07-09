@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A horse walks into a bar. The bar tender says "Hey." The horse says "Sure."
+> Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
 
 <!-- END -->
 
