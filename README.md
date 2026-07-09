@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a dyslexic poet write? Inverse.
+> I tried to write a chemistry joke, but could never get a reaction.
 
 <!-- END -->
 
