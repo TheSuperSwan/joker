@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> What happens to a frog's car when it breaks down? It gets toad.
 
 <!-- END -->
 
