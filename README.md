@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the beach? Thanks for all the sediment.
+> What does a female snake use for support? A co-Bra!
 
 <!-- END -->
 
