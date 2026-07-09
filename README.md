@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's the worst thing about ancient history class? The teachers tend to Babylon.
+> What did the ocean say to the beach? Thanks for all the sediment.
 
 <!-- END -->
 
