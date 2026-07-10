@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It takes guts to be an organ donor.
+> Why are graveyards so noisy? Because of all the coffin.
 
 <!-- END -->
 
