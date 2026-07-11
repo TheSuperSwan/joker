@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many bones are in the human hand? A handful of them.
+> This furniture store keeps emailing me, all I wanted was one night stand!
 
 <!-- END -->
 
