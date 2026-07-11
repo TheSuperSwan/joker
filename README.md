@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just wrote a book on reverse psychology. Do not read it!
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
