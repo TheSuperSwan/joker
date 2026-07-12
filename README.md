@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of tree fits in your hand? A palm tree!
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
