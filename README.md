@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many apples grow on a tree? All of them!
+> Leather is great for sneaking around because it's made of hide.
 
 <!-- END -->
 
