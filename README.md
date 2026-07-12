@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where was the Declaration of Independence signed?
-
-At the bottom! 
+> What's a ninja's favorite type of shoes? Sneakers!
 
 <!-- END -->
 
