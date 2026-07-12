@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you take someone who has been injured in a Peek-a-boo accident? To the I.C.U.
+> I went to the store to pick up eight cans of sprite... when I got home I realized I'd only picked seven up
 
 <!-- END -->
 
