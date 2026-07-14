@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did one nut say as he chased another nut?  I'm a cashew!
+> Recent survey revealed 6 out of 7 dwarf's aren't happy.
 
 <!-- END -->
 
