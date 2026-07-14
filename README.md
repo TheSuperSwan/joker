@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> Why do bees hum? Because they don't know the words.
 
 <!-- END -->
 
