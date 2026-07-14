@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the coffee file a police report? It got mugged.
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
