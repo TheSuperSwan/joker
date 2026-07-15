@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't tell secrets in corn fields. Too many ears around.
+> Why donât skeletons ever go trick or treating? Because they have nobody to go with.
 
 <!-- END -->
 
