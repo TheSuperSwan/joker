@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Q: What did the spaghetti say to the other spaghetti?
-A: Pasta la vista, baby!
+> What kind of pants do ghosts wear? Boo jeans.
 
 <!-- END -->
 
