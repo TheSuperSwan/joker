@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the octopus beat the shark in a fight? Because it was well armed.
+> Q: What did the spaghetti say to the other spaghetti?
+A: Pasta la vista, baby!
 
 <!-- END -->
 
