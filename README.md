@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of pants do ghosts wear? Boo jeans.
+> What did the grape do when he got stepped on? He let out a little wine.
 
 <!-- END -->
 
