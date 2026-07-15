@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+> Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
 
 <!-- END -->
 
