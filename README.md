@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Astronomers got tired watching the moon go around the earth for 24 hours. They decided to call it a day.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
