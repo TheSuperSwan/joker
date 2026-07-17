@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you get if you cross a turkey with a ghost? A poultry-geist!
+> How do you get a baby alien to sleep?  You rocket.
 
 <!-- END -->
 
