@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
