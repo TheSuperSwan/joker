@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a female snake use for support? A co-Bra!
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
