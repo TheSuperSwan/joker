@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get a baby alien to sleep?  You rocket.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
