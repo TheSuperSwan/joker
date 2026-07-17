@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> How does the moon cut his hair? Eclipse it.
 
 <!-- END -->
 
