@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of bagel can fly? A plain bagel.
+> What do you call a sheep with no legs? A cloud.
 
 <!-- END -->
 
