@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How did the hipster burn the roof of his mouth? He ate the pizza before it was cool.
+> I had a dream that I was a muffler last night. I woke up exhausted!
 
 <!-- END -->
 
