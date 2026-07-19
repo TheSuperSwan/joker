@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> What's black and white and read all over? The newspaper.
 
 <!-- END -->
 
