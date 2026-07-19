@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> what do you call a dog that can do magic tricks? a labracadabrador
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
