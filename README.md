@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What time did the man go to the dentist? Tooth hurt-y.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
