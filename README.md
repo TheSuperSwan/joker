@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
