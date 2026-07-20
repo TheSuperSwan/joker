@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> Whatâs Forest Gumpâs Facebook password? 1forest1
 
 <!-- END -->
 
