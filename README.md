@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How was the snow globe feeling after the storm? A little shaken.
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
