@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call your friend who stands in a hole? Phil.
+> Ever wondered why bees hum? It's because they don't know the words.
 
 <!-- END -->
 
