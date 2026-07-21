@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for an origami company but they folded.
+> To the person who stole my anti-depressant pills: I hope you're happy now.
 
 <!-- END -->
 
