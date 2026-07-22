@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish easy to weigh? Because they have their own scales.
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
