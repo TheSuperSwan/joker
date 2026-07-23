@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> Whatâs brown and sounds like a bell? Dung!
 
 <!-- END -->
 
