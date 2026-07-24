@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I asked a frenchman if he played video games. He said "Wii"
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
