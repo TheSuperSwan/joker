@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bears have hairy coats? Fur protection.
+> I wanted to be a tailor but I didn't suit the job
 
 <!-- END -->
 
