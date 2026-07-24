@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When you have a bladder infection, urine trouble.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
