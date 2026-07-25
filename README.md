@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which side of the chicken has more feathers? The outside.
+> How was the snow globe feeling after the storm? A little shaken.
 
 <!-- END -->
 
