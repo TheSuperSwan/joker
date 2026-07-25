@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Scientists finally did a study on forks. It's about tine!
+> What do you call a dad that has fallen through the ice? A Popsicle.
 
 <!-- END -->
 
