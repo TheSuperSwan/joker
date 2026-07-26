@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard about corduroy pillows?  They're making headlines!
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
