@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do ducks make great detectives? They always quack the case.
+> When does a joke become a dad joke? When it becomes apparent.
 
 <!-- END -->
 
