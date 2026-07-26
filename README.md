@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tomato blush? Because it saw the salad dressing.
+> What does a pirate pay for his corn? A buccaneer!
 
 <!-- END -->
 
