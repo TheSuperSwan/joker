@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is a witch's favorite subject in school? Spelling!
+> Did you know that ghosts call their true love their ghoul-friend?
 
 <!-- END -->
 
