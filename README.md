@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the campsite that got visited by Bigfoot? It got in tents.
+> What do you get if you cross a turkey with a ghost? A poultry-geist!
 
 <!-- END -->
 
