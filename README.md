@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was Santa's little helper feeling depressed? Because he has low elf esteem.
-
+> Did you hear about the campsite that got visited by Bigfoot? It got in tents.
 
 <!-- END -->
 
