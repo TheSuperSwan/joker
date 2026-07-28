@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> Why did the kid throw the clock out the window? He wanted to see time fly!
 
 <!-- END -->
 
