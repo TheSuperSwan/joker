@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that ghosts call their true love their ghoul-friend?
+> I cut my finger chopping cheese, but I think that I may have grater problems.
 
 <!-- END -->
 
