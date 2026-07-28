@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to a Foo Fighters Concert once... It was Everlong...
+> Did you hear about the two thieves who stole a calendar? They each got six months.
 
 <!-- END -->
 
