@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Don't buy flowers at a monastery. Because only you can prevent florist friars.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
