@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Michael Jackson name his denim store?    Billy Jeans!
+> What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand...
 
 <!-- END -->
 
