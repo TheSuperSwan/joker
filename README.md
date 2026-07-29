@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm glad I know sign language, it's pretty handy.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
