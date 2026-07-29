@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What time did the man go to the dentist? Tooth hurt-y.
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
