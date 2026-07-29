@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to work for an origami company but they folded.
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
