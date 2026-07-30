@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When is a door not a door? When it's ajar.
+> Did you hear about the submarine industry? It really took a dive...
 
 <!-- END -->
 
