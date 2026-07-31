@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do hens stay fit? They always egg-cercise!
+> What does a clock do when it's hungry? It goes back four seconds!
 
 <!-- END -->
 
