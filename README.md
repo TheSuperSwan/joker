@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's brown and sticky? A stick.
+> What kind of tree fits in your hand? A palm tree!
 
 <!-- END -->
 
