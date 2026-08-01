@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of music do planets listen to? Nep-tunes.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
