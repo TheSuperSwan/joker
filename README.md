@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does the moon cut his hair? Eclipse it.
+> Remember, the best angle to approach a problem from is the "try" angle.
 
 <!-- END -->
 
