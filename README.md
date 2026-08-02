@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whiteboards ... are remarkable.
+> A farmer had 297 cows, when he rounded them up, he found he had 300
 
 <!-- END -->
 
