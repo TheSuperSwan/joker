@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> If at first you don't succeed, sky diving is not for you!
+> Hostess: Do you have a preference of where you sit?
+Dad: Down.
 
 <!-- END -->
 
