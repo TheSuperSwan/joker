@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get two whales in a car? Start in England and drive West.
+> Why was the shirt happy to hang around the tank top? Because it was armless
 
 <!-- END -->
 
