@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the ocean say to the shore? Nothing, it just waved.
+> Two peanuts were walking down the street. One was a salted
 
 <!-- END -->
 
