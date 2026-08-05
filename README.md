@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> My wife said I was immature. So I told her to get out of my fort.
 
 <!-- END -->
 
