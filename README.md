@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Recent survey revealed 6 out of 7 dwarf's aren't happy.
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
