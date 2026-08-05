@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the giant pickle?  He was kind of a big dill.
+> I was going to learn how to juggle, but I didn't have the balls.
 
 <!-- END -->
 
