@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you do when your bunny gets wet? You get your hare dryer.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
