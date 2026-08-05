@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to learn how to juggle, but I didn't have the balls.
+> What did the ocean say to the shore? Nothing, it just waved.
 
 <!-- END -->
 
