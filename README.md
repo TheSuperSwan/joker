@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has a bed that you canât sleep in? A river.
+> What is this movie about? It is about 2 hours long.
 
 <!-- END -->
 
