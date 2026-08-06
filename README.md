@@ -4,7 +4,9 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was shocked when I was diagnosed as colorblind... It came out of the purple.
+> Why do pumpkins sit on peopleâs porches?
+
+They have no hands to knock on the door.
 
 <!-- END -->
 
