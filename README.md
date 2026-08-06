@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is this movie about? It is about 2 hours long.
+> How do you get a baby alien to sleep?  You rocket.
 
 <!-- END -->
 
