@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get a baby alien to sleep?  You rocket.
+> Why do fish live in salt water? Because pepper makes them sneeze!
 
 <!-- END -->
 
