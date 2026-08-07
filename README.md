@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the knife dress up in a suit? Because it wanted to look sharp
+> My cat was just sick on the carpet, I donât think itâs feline well.
 
 <!-- END -->
 
