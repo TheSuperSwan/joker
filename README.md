@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two guys walked into a bar, the third one ducked.
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
