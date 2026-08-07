@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
