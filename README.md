@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are pirates called pirates? Because they arrr!
+> What kind of magic do cows believe in? MOODOO.
 
 <!-- END -->
 
