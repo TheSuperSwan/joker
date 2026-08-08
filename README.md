@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of magic do cows believe in? MOODOO.
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
