@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of award did the dentist receive? A little plaque.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
