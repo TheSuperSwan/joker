@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees have sticky hair? Because they use honey combs!
+> What's the worst thing about ancient history class? The teachers tend to Babylon.
 
 <!-- END -->
 
