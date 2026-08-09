@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do fish live in salt water? Because pepper makes them sneeze!
+> You know that cemetery up the road? People are dying to get in there.
 
 <!-- END -->
 
