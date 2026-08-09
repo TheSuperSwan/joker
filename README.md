@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a fake noodle? An impasta.
+> What do you get when you cross a rabbit with a water hose? Hare spray.
 
 <!-- END -->
 
