@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the late tomato say to the early tomato? Iâll ketch up
+> Iâll tell you something about German sausages, theyâre the wurst
 
 <!-- END -->
 
