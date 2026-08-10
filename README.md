@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do you never see elephants hiding in trees? Because they're so good at it.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
