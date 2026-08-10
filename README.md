@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Parallel lines have so much in common. Itâs a shame theyâll never meet.
+> How do you make holy water? You boil the hell out of it.
 
 <!-- END -->
 
