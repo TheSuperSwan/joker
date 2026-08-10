@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> What do you call a guy lying on your doorstep? Matt.
 
 <!-- END -->
 
