@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
