@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get a baby alien to sleep?  You rocket.
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
