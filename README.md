@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
+> Two parrots are sitting on a perch. One turns to the other and asks, "do you smell fish?"
 
 <!-- END -->
 
