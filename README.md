@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm on a whiskey diet. Iâve lost three days already.
+> Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
 
 <!-- END -->
 
