@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do fish keep their money? In the riverbank
+> I am so good at sleeping I can do it with my eyes closed!
 
 <!-- END -->
 
