@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call cheese by itself? Provolone.
+> Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
 
 <!-- END -->
 
