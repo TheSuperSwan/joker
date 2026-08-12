@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> Our wedding was so beautiful, even the cake was in tiers.
 
 <!-- END -->
 
