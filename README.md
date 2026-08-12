@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâll tell you something about German sausages, theyâre the wurst
+> How do you get two whales in a car? Start in England and drive West.
 
 <!-- END -->
 
