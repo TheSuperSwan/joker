@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Our wedding was so beautiful, even the cake was in tiers.
+> My pet mouse 'Elvis' died last night. He was caught in a trap..
 
 <!-- END -->
 
