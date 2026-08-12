@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A cannibal is someone who is fed up with people.
+> If two vegans are having an argument, is it still considered beef?
 
 <!-- END -->
 
