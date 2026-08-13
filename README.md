@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an elephant that doesnât matter? An irrelephant.
+> A man tried to sell me a coffin today. I told him that's the last thing I need.
 
 <!-- END -->
 
