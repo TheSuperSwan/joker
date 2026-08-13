@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâm reading a book on the history of glue â canât put it down.
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
