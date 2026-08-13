@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was the big cat disqualified from the race? Because it was a cheetah.
+> What do computers and air conditioners have in common? They both become useless when you open windows.
 
 <!-- END -->
 
