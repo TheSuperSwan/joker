@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a duck that gets all A's? A wise quacker.
+> Iâm reading a book on the history of glue â canât put it down.
 
 <!-- END -->
 
