@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A termite walks into a bar and asks âIs the bar tender here?â
+> What do you call an elephant that doesnât matter? An irrelephant.
 
 <!-- END -->
 
