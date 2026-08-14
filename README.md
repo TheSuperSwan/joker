@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a cow with two legs? Lean beef.
+> What did one nut say as he chased another nut?  I'm a cashew!
 
 <!-- END -->
 
