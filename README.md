@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me to name two structures that hold water. I said "Well dam"
+> My son is studying to be a surgeon, I just hope he makes the cut.
 
 <!-- END -->
 
