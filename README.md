@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't sharks eat clowns?  Because they taste funny.
+> Itâs hard to explain puns to kleptomaniacs, because they take everything literally.
 
 <!-- END -->
 
