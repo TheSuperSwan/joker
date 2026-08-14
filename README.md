@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
