@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me to name two structures that hold water. I said "Well dam"
+> What did one snowman say to the other snow man? Do you smell carrot?
 
 <!-- END -->
 
