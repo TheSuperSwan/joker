@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Who did the wizard marry? His ghoul-friend
+> What is a tornado's favorite game to play? Twister!
 
 <!-- END -->
 
