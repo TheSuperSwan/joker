@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A ghost walks into a bar and asks for a glass of vodka but the bar tender says, âsorry we donât serve spiritsâ
+> Why can't your nose be 12 inches long? Because then it'd be a foot!
 
 <!-- END -->
 
