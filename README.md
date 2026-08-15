@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that protons have mass? I didn't even know they were catholic.
+> Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
 
 <!-- END -->
 
