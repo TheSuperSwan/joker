@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why canât you hear a pterodactyl go to the bathroom? The p is silent.
+> Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 
 <!-- END -->
 
