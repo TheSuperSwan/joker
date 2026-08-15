@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> Where does astronauts hangout after work? At the spacebar.
 
 <!-- END -->
 
