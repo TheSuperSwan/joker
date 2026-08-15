@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife said I was immature. So I told her to get out of my fort.
+> Recent survey revealed 6 out of 7 dwarf's aren't happy.
 
 <!-- END -->
 
