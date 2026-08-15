@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do birds fly south for the winter? Because it's too far to walk.
+> How do you get two whales in a car? Start in England and drive West.
 
 <!-- END -->
 
