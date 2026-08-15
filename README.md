@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you get two whales in a car? Start in England and drive West.
+> What's the difference between a seal and a sea lion?
+An ion! 
 
 <!-- END -->
 
