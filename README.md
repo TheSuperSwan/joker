@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the melons plan a big wedding? Because they cantaloupe!
+> Did you know that protons have mass? I didn't even know they were catholic.
 
 <!-- END -->
 
