@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How come a man driving a train got struck by lightning? He was a good conductor.
+> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
 
 <!-- END -->
 
