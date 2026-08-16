@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do you know where you can get chicken broth in bulk? The stock market.
+> Why didnât the skeleton cross the road? Because he had no guts.
 
 <!-- END -->
 
