@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why didnât the skeleton cross the road? Because he had no guts.
+> Did you know crocodiles could grow up to 15 feet? But most just have 4.
 
 <!-- END -->
 
