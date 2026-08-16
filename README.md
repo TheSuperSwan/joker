@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's only a murder of crows if there's probable caws.
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
