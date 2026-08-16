@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> "Hey, dad, did you get a haircut?" "No, I got them all cut."
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
