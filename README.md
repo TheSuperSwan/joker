@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a clock do when it's hungry? It goes back four seconds!
+> I accidentally took my cats meds last night. Donât ask meow.
 
 <!-- END -->
 
