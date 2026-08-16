@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know crocodiles could grow up to 15 feet? But most just have 4.
+> Wife told me to take the spider out instead of killing it... We had some drinks, cool guy, wants to be a web developer.
 
 <!-- END -->
 
