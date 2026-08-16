@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you know that protons have mass? I didn't even know they were catholic.
+> What is the least spoken language in the world?
+Sign Language
 
 <!-- END -->
 
