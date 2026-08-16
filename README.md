@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the least spoken language in the world?
-Sign Language
+> I ate a clock yesterday. It was so time consuming.
 
 <!-- END -->
 
