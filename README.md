@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why can't eggs have love? They will break up too soon.
+> What is the best way to carve?
+Whittle by whittle.
 
 <!-- END -->
 
