@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> âPut the cat outâ â¦ âI didnât realize it was on fire
+> âDoctor, Iâve broken my arm in several placesâ Doctor âWell donât go to those places.â
 
 <!-- END -->
 
