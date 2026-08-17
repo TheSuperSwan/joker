@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
