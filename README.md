@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Can February march? No, but April may.
+> Do I enjoy making courthouse puns? Guilty
 
 <!-- END -->
 
