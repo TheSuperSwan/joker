@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never Trust Someone With Graph Paper...
-
-They're always plotting something.
+> Why do pirates not know the alphabet? They always get stuck at "C".
 
 <!-- END -->
 
