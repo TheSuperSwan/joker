@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard the rumor going around about butter? Never mind, I shouldn't spread it.
+> In the news a courtroom artist was arrested today, I'm not surprised, he always seemed sketchy.
 
 <!-- END -->
 
