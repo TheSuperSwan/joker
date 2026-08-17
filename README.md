@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Some people eat light bulbs. They say it's a nice light snack.
+> What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
 
 <!-- END -->
 
