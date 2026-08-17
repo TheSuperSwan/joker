@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do pirates not know the alphabet? They always get stuck at "C".
+> I just wrote a book on reverse psychology. Do not read it!
 
 <!-- END -->
 
