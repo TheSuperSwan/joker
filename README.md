@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone asked me to name two structures that hold water. I said "Well dam"
+> Why donât skeletons ever go trick or treating? Because they have nobody to go with.
 
 <!-- END -->
 
