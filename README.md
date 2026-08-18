@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
