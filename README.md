@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the sea say to the sand? "We have to stop meeting like this."
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
