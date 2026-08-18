@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where did Captain Hook get his hook? From a second hand store.
+> What did the big flower say to the littler flower? Hi, bud!
 
 <!-- END -->
 
