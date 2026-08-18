@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+> I broke my finger at work today, on the other hand I'm completely fine.
 
 <!-- END -->
 
