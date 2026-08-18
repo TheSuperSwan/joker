@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> My wife said I was immature. So I told her to get out of my fort.
+> What do you call an Argentinian with a rubber toe? Roberto
 
 <!-- END -->
 
