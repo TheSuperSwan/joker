@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> Why couldn't the lifeguard save the hippie? He was too far out, man.
 
 <!-- END -->
 
