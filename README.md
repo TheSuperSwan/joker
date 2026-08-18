@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A farmer had 297 cows, when he rounded them up, he found he had 300
+> Someone asked me to name two structures that hold water. I said "Well dam"
 
 <!-- END -->
 
