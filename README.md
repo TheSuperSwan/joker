@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I broke my finger at work today, on the other hand I'm completely fine.
+> I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take.
 
 <!-- END -->
 
