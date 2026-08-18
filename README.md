@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the scarecrow win an award? Because he was outstanding in his field.
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
