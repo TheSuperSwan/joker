@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve got this disease where I canât stop making airport puns. The doctor says it terminal.
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
