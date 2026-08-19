@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do fish live in salt water? Because pepper makes them sneeze!
+> Why do bees hum? Because they don't know the words.
 
 <!-- END -->
 
