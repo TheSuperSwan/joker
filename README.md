@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the girl smear peanut butter on the road? To go with the traffic jam.
+> Why did the knife dress up in a suit? Because it wanted to look sharp
 
 <!-- END -->
 
