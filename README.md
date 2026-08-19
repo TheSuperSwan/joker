@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> A farmer had 297 cows, when he rounded them up, he found he had 300
+> I hate perforated lines, they're tearable.
 
 <!-- END -->
 
