@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> Did you hear about the cheese who saved the world? It was Legend-dairy!
 
 <!-- END -->
 
