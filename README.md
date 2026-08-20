@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Which is the fastest growing city in the world? Dublin'
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
