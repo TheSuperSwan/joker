@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Egyptians claimed to invent the guitar, but they were such lyres.ï»¿
+> What do you do on a remote island? Try and find the TV island it belongs to.
 
 <!-- END -->
 
