@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whoever invented the knock-knock joke should get a no bell prize.
+> I tried to milk a cow today, but was unsuccessful. Udder failure.
 
 <!-- END -->
 
