@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the Dorito farmer say to the other Dorito farmer? Cool Ranch!
+> People are shocked to discover I have a police record but I love their greatest hits!
 
 <!-- END -->
 
