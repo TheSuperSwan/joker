@@ -4,9 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the difference between ignorance and apathy?
-
-I don't know and I don't care.
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
