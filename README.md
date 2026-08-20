@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the giant pickle?  He was kind of a big dill.
+> I met this girl on a dating site and, I don't know, we just clicked.
 
 <!-- END -->
 
