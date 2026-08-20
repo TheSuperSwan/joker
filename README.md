@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What cheese can never be yours? Nacho cheese.
+> Why does Han Solo like gum? It's chewy!
 
 <!-- END -->
 
