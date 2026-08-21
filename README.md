@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> Why don't sharks eat clowns?  Because they taste funny.
 
 <!-- END -->
 
