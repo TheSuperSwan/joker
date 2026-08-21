@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone broke into my house last night and stole my limbo trophy. How low can you go?
+> I wish I could clean mirrors for a living. It's just something I can see myself doing.
 
 <!-- END -->
 
