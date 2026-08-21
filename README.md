@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whats a penguins favorite relative? Aunt Arctica.
+> Iâm on a whiskey diet. Iâve lost three days already.
 
 <!-- END -->
 
