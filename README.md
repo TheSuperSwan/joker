@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When people are sad, I sometimes let them colour in my tattoos. Sometimes all they need is a shoulder to crayon.
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
