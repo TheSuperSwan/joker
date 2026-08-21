@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People who don't eat gluten are really going against the grain.
+> I used to be addicted to the hokey pokey, but I turned myself around.
 
 <!-- END -->
 
