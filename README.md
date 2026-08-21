@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was in an 80's band called the prevention. We were better than the cure.
+> Why is no one friends with Dracula? Because he's a pain in the neck.
 
 <!-- END -->
 
