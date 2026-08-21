@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I used to be addicted to the hokey pokey, but I turned myself around.
+> It was raining cats and dogs the other day. I almost stepped in a poodle.
 
 <!-- END -->
 
