@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make Lady Gaga cry? Poker face. 
+> Slept like a log last night â¦ woke up in the fireplace.
 
 <!-- END -->
 
