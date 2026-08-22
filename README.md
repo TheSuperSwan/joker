@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you make a hankie dance? Put a little boogie in it.
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
