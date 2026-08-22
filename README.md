@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> What do you call an alligator in a vest? An in-vest-igator!
 
 <!-- END -->
 
