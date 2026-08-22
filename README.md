@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a pile of cats?  A Meowtain.
+> What is the tallest building in the world? The library â itâs got the most stories!
 
 <!-- END -->
 
