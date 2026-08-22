@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To be Frank, I'd have to change my name.
+> The great thing about stationery shops is they're always in the same place...
 
 <!-- END -->
 
