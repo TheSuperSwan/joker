@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Someone broke into my house last night and stole my limbo trophy. How low can you go?
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
