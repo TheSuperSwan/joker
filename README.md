@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> Why did the melons plan a big wedding? Because they cantaloupe!
 
 <!-- END -->
 
