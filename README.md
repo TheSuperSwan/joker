@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How are false teeth like stars? They come out at night!
+> what do you call a dog that can do magic tricks? a labracadabrador
 
 <!-- END -->
 
