@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Man, I really love my furniture... me and my recliner go way back.
+> Can I watch the TV? Dad: Yes, but donât turn it on.
 
 <!-- END -->
 
