@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the worker get fired from the orange juice factory? Lack of concentration.
+> What do you call a droid that takes the long way around? R2 detour.
 
 <!-- END -->
 
