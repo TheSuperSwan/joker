@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Slept like a log last night â¦ woke up in the fireplace.
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
