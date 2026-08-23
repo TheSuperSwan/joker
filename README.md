@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> How does Darth Vader like his toast? On the dark side.
 
 <!-- END -->
 
