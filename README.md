@@ -4,7 +4,8 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's blue and not very heavy?  Light blue.
+> What do you do when you see a space man?
+Park your car, man.
 
 <!-- END -->
 
