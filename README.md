@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> How do hens stay fit? They always egg-cercise!
 
 <!-- END -->
 
