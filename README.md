@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tomato blush? Because it saw the salad dressing.
+> How do you get a baby alien to sleep?  You rocket.
 
 <!-- END -->
 
