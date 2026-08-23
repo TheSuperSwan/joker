@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a nervous javelin thrower? Shakespeare.
+> Why did the kid cross the playground? To get to the other slide.
 
 <!-- END -->
 
