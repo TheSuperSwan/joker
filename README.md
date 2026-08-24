@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How do you know if thereâs an elephant under your bed? Your head hits the ceiling!
+> A termite walks into a bar and asks âIs the bar tender here?â
 
 <!-- END -->
 
