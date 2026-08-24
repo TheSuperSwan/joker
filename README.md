@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The first time I got a universal remote control I thought to myself, "This changes everything"
+> How do you know if thereâs an elephant under your bed? Your head hits the ceiling!
 
 <!-- END -->
 
