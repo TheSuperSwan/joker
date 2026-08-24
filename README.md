@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the chicken get a penalty? For fowl play.
+> What do you call a bear with no teeth? A gummy bear!
 
 <!-- END -->
 
