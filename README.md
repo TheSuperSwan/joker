@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the guy who invented Lifesavers? They say he made a mint.
+> Why are skeletons so calm? Because nothing gets under their skin.
 
 <!-- END -->
 
