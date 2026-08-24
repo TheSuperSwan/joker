@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What animal is always at a game of cricket? A bat.
+> Two guys walked into a bar, the third one ducked.
 
 <!-- END -->
 
