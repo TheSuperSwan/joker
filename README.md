@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> Did you hear the one about the giant pickle?  He was kind of a big dill.
 
 <!-- END -->
 
