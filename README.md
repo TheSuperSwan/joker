@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do bees hum? Because they don't know the words.
+> When do doctors get angry? When they run out of patients.
 
 <!-- END -->
 
