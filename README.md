@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've got a joke about vegetables for you... but it's a bit corny.
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
