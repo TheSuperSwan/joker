@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> It's difficult to say what my wife does, she sells sea shells by the sea shore.
+> Every night at 11:11, I make a wish that someone will come fix my broken clock.
 
 <!-- END -->
 
