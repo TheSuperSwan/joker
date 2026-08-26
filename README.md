@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I just broke my guitar. It's okay, I won't fret
+> It's difficult to say what my wife does, she sells sea shells by the sea shore.
 
 <!-- END -->
 
