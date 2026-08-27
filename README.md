@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the sea say to the sand? "We have to stop meeting like this."
+> I was in an 80's band called the prevention. We were better than the cure.
 
 <!-- END -->
 
