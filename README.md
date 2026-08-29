@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You can't trust a ladder. It will always let you down
+> Dad, can you put my shoes on? I don't think they'll fit me.
 
 <!-- END -->
 
