@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> which flower is most fierce? Dandelion
+> You can't trust a ladder. It will always let you down
 
 <!-- END -->
 
