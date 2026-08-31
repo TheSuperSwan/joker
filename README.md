@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a bear with no teeth? A gummy bear!
+> I was in an 80's band called the prevention. We were better than the cure.
 
 <!-- END -->
 
