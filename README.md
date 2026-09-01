@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call corn that joins the army? Kernel.
+> Did you hear the joke about the wandering nun? She was a roman catholic.
 
 <!-- END -->
 
