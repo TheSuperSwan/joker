@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
+> Today a man knocked on my door and asked for a small donation towards the local swimming pool. I gave him a glass of water.
 
 <!-- END -->
 
