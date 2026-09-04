@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I went to the zoo the other day, there was only one dog in it. It was a shitzu.
+> Why is there always a gate around cemeteries? Because people are always dying to get in.
 
 <!-- END -->
 
