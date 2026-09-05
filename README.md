@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How can you tell a vampire has a cold? They start coffin.
+> What do you call a pile of cats?  A Meowtain.
 
 <!-- END -->
 
