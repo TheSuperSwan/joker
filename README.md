@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What's orange and sounds like a parrot? A Carrot.
+> Why are snake races so exciting? They're always neck and neck.
 
 <!-- END -->
 
