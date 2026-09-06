@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Never take advice from electrons. They are always negative.
+> How does a scientist freshen their breath? With experi-mints!
 
 <!-- END -->
 
