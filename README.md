@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is red and smells like blue paint?
-Red paint!
+> Why did the sentence fail the driving test? It never came to a full stop.
 
 <!-- END -->
 
