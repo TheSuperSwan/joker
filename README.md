@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the sentence fail the driving test? It never came to a full stop.
+> I'll tell you what often gets over looked... garden fences.
 
 <!-- END -->
 
