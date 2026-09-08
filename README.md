@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do you learn to make banana splits? At sundae school.
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
