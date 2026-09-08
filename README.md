@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did Michael Jackson name his denim store?    Billy Jeans!
+> âPut the cat outâ â¦ âI didnât realize it was on fire
 
 <!-- END -->
 
