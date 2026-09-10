@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I invented a new word! Plagiarism!
+> Two peanuts were walking down the street. One was a salted.
 
 <!-- END -->
 
