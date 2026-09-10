@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the submarine industry? It really took a dive...
+> Why does Waldo only wear stripes? Because he doesn't want to be spotted.
 
 <!-- END -->
 
