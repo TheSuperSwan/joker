@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Want to hear a joke about construction? Nah, I'm still working on it.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
