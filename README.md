@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I'm practicing for a bug-eating contest and I've got butterflies in my stomach.
+> They say Dodger Stadium can hold up to fifty-six thousand people, but that is just a ballpark figure.
 
 <!-- END -->
 
