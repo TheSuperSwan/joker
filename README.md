@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> They're making a movie about clocks. It's about time
+> What do you do when your bunny gets wet? You get your hare dryer.
 
 <!-- END -->
 
