@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> R.I.P. boiled water. You will be mist.
+> Yesterday, I accidentally swallowed some food coloring. The doctor says Iâm okay, but I feel like Iâve dyed a little inside.
 
 <!-- END -->
 
