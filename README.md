@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why does Superman get invited to dinners? Because he is a Supperhero.
+> What do you call two guys hanging out by your window? Kurt & Rod.
 
 <!-- END -->
 
