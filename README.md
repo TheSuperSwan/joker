@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Geology rocks, but Geography is where it's at!
+> Why does Superman get invited to dinners? Because he is a Supperhero.
 
 <!-- END -->
 
