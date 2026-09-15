@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> When Dad drops a pea off of his plate âoh dear Iâve peeâd on the table!
+> I was thinking about moving to Moscow but there is no point Russian into things.
 
 <!-- END -->
 
