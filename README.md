@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a female snake. misssssssss 
+> What creature is smarter than a talking parrot? A spelling bee.
 
 <!-- END -->
 
