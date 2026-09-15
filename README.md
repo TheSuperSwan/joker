@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
+> A man walked in to a bar with some asphalt on his arm. He said âTwo beers please, one for me and one for the road.â
 
 <!-- END -->
 
