@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I fear for the calendar, its days are numbered.
-
+> How does a penguin build itâs house? Igloos it together.
 
 <!-- END -->
 
