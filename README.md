@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How does a penguin build itâs house? Igloos it together.
+> What time did the man go to the dentist? Tooth hurt-y.
 
 <!-- END -->
 
