@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Iâve got this disease where I canât stop making airport puns. The doctor says it terminal.
+> There's not really any training for garbagemen. They just pick things up as they go.
 
 <!-- END -->
 
