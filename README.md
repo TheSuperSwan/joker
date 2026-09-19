@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the mountain climber name his son? Cliff.
+> What kind of magic do cows believe in? MOODOO.
 
 <!-- END -->
 
