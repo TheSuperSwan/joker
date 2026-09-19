@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Have you heard of the band 1023MB? They haven't got a gig yet.
+> The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
 <!-- END -->
 
