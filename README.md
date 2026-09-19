@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
+> As I suspected, someone has been adding soil to my garden. The plot thickens.
 
 <!-- END -->
 
