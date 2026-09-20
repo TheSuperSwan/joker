@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do owls go to buy their baby clothes? The owlet malls.
+> Why are fish so smart? Because they live in schools!
 
 <!-- END -->
 
