@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> The best time on a clock is 6:30--hands down.
+> Where do owls go to buy their baby clothes? The owlet malls.
 
 <!-- END -->
 
