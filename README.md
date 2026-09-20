@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are fish so smart? Because they live in schools!
+> Why is the ocean always blue? Because the shore never waves back.
 
 <!-- END -->
 
