@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Without geometry life is pointless.
+> Where does batman go to the bathroom? The batroom.
 
 <!-- END -->
 
