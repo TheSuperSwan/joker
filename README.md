@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a dad that has fallen through the ice? A Popsicle.
+> What lies at the bottom of the ocean and twitches? A nervous wreck.
 
 <!-- END -->
 
