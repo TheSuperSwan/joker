@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Writing with a broken pencil is pointless.
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
