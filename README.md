@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> What do birds give out on Halloween? Tweets.
 
 <!-- END -->
 
