@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Ben & Jerry's really need to improve their operation. The only way to get there is down a rocky road.
+> Why couldn't the kid see the pirate movie? Because it was rated arrr!
 
 <!-- END -->
 
