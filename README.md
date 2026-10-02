@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I think circles are pointless.
+> I used to work for a soft drink can crusher. It was soda pressing.
 
 <!-- END -->
 
