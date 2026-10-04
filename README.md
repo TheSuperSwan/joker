@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> I won an argument with a weather forecaster once. His logic was cloudy...
 
 <!-- END -->
 
