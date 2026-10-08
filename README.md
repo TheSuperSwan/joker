@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> For Valentine's day, I decided to get my wife some beads for an abacus.  It's the little things that count.
+> Coffee has a tough time at my house, every morning it gets mugged.
 
 <!-- END -->
 
