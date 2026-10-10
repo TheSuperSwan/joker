@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why is it a bad idea to iron your four-leaf clover? Cause you shouldn't press your luck.
+> I started a new business making yachts in my attic this year...the sails are going through the roof
 
 <!-- END -->
 
