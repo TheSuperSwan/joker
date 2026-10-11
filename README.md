@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> How many tickles does it take to tickle an octopus? Ten-tickles!
+> Who is the coolest Doctor in the hospital? The hip Doctor!
 
 <!-- END -->
 
