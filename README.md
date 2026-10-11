@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> As I suspected, someone has been adding soil to my garden. The plot thickens.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
