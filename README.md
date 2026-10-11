@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I thought about going on an all-almond diet. But that's just nuts.
+> How do you make a water bed more bouncy. You use Spring Water
 
 <!-- END -->
 
