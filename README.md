@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear the one about the guy with the broken hearing aid? Neither did he.
+> Me and my mates are in a band called Duvet. We're a cover band.
 
 <!-- END -->
 
