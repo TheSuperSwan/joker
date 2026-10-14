@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What is the hardest part about sky diving? The ground.
+> Whatâs Forest Gumpâs Facebook password? 1forest1
 
 <!-- END -->
 
