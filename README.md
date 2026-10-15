@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a girl between two posts? Annette.
+> How many South Americans does it take to change a lightbulb? A Brazilian
 
 <!-- END -->
 
