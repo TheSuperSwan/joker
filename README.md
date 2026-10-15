@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the scarecrow win an award? Because he was outstanding in his field.
+> I thought about going on an all-almond diet. But that's just nuts.
 
 <!-- END -->
 
