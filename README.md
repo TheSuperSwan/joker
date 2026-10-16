@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What has ears but cannot hear? A field of corn.
+> If I could name myself after any Egyptian god, I'd be Set.
 
 <!-- END -->
 
