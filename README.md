@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I was going to get a brain transplant, but I changed my mind
+> What has ears but cannot hear? A field of corn.
 
 <!-- END -->
 
