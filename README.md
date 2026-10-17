@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> To the guy who invented zero... thanks for nothing.
+> Bought a new jacket suit the other day and it burst into flames. Well, it was a blazer
 
 <!-- END -->
 
