@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Atheism is a non-prophet organisation.
+> What do you call a gorilla wearing headphones? Anything you'd like, it can't hear you.
 
 <!-- END -->
 
