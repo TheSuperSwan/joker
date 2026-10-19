@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why don't sharks eat clowns?  Because they taste funny.
+> My first time using an elevator was an uplifting experience. The second time let me down.
 
 <!-- END -->
 
