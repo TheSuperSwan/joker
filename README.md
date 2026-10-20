@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the tree go to the dentist? It needed a root canal.
+> What do you get when you cross a chicken with a skunk? A fowl smell!
 
 <!-- END -->
 
