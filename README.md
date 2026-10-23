@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I finally bought the limited edition Thesaurus that I've always wanted. When I opened it, all the pages were blank.
-I have no words to describe how angry I am.
+> Why doesn't the Chimney-Sweep call out sick from work? Because he's used to working with a flue.
 
 <!-- END -->
 
