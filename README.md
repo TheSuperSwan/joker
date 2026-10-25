@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why was it called the dark ages? Because of all the knights. 
+> What kind of pants do ghosts wear? Boo jeans.
 
 <!-- END -->
 
