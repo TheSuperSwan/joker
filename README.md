@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What did the dog say to the two trees? Bark bark.
+> Why did the house go to the doctor? It was having window panes.
 
 <!-- END -->
 
