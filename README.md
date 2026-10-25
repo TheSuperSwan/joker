@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Thereâs a new type of broom out, itâs sweeping the nation.
+> I've just written a song about a tortilla. Well, it is more of a rap really.
 
 <!-- END -->
 
