@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I've just written a song about a tortilla. Well, it is more of a rap really.
+> What did the piece of bread say to the knife? Butter me up.
 
 <!-- END -->
 
