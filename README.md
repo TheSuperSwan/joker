@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do wizards clean their teeth three times a day? To prevent bat breath!
+> Do you know where you can get chicken broth in bulk? The stock market.
 
 <!-- END -->
 
