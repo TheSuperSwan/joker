@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What does a pirate pay for his corn? A buccaneer!
+> What did the late tomato say to the early tomato? Iâll ketch up
 
 <!-- END -->
 
