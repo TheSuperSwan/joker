@@ -4,8 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Where do cats write notes?
-Scratch Paper!
+> Where do you learn to make banana splits? At sundae school.
 
 <!-- END -->
 
