@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call an Argentinian with a rubber toe? Roberto
+> What do birds give out on Halloween? Tweets.
 
 <!-- END -->
 
