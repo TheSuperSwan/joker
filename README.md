@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do birds give out on Halloween? Tweets.
+> Why did the man put his money in the freezer? He wanted cold hard cash!
 
 <!-- END -->
 
