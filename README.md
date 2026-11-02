@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the man put his money in the freezer? He wanted cold hard cash!
+> What's the best thing about elevator jokes? They work on so many levels.
 
 <!-- END -->
 
