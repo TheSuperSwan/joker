@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> I burned 2000 calories today, I left my food in the oven for too long.
+> Why do wizards clean their teeth three times a day? To prevent bat breath!
 
 <!-- END -->
 
