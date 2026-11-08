@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call your friend who stands in a hole? Phil.
+> Why was Pavlov's beard so soft?  Because he conditioned it.
 
 <!-- END -->
 
