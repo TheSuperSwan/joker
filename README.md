@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Archaeology really is a career in ruins.
+> Why did the m&m go to school? Because it wanted to be a Smartie!
 
 <!-- END -->
 
