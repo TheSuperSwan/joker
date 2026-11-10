@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> Why are oranges the smartest fruit? Because they are made to concentrate. 
 
 <!-- END -->
 
