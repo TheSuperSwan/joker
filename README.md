@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why are mummys scared of vacation? They're afraid to unwind.
+> If at first you don't succeed, sky diving is not for you!
 
 <!-- END -->
 
