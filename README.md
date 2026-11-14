@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Two guys walked into a bar, the third one ducked.
+> What did the dog say to the two trees? Bark bark.
 
 <!-- END -->
 
