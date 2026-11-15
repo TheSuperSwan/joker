@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Whatâs brown and sounds like a bell? Dung!
+> I've got a joke about vegetables for you... but it's a bit corny.
 
 <!-- END -->
 
