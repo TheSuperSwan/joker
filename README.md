@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> You know what they say about cliffhangers...
+> The best time on a clock is 6:30--hands down.
 
 <!-- END -->
 
