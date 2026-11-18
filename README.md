@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> People who don't eat gluten are really going against the grain.
+> How come the stadium got hot after the game? Because all of the fans left.
 
 <!-- END -->
 
