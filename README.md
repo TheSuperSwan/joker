@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> What do you call a boy who stopped digging holes? Douglas.
+> The biggest knight at King Arthur's round table was Sir Cumference. He acquired his size from eating too much pi.
 
 <!-- END -->
 
