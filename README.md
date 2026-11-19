@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Did you hear about the submarine industry? It really took a dive...
+> "I'll call you later." Don't call me later, call me Dad.
 
 <!-- END -->
 
