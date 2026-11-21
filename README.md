@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why do cows wear bells? Because their horns don't work.
+> Why do mathematicians hate the U.S.? Because it's indivisible.
 
 <!-- END -->
 
