@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Do you know where you can get chicken broth in bulk? The stock market.
+> The word queue is ironic. It's just q with a bunch of silent letters waiting in line.
 
 <!-- END -->
 
