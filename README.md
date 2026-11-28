@@ -4,7 +4,7 @@ Tell me a joke.
 <!-- START -->
 
 **Dagens skämt:**
-> Why did the opera singer go sailing? They wanted to hit the high Cs.
+> People are making apocalypse jokes like thereâs no tomorrow.
 
 <!-- END -->
 
